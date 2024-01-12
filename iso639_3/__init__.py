@@ -6,7 +6,7 @@ if 'unicode' not in dir():
     unicode = str
 
 
-__version__ = '0.1.4'
+__version__ = '0.1.5'
 
 
 class NonExistentLanguageError(RuntimeError):
@@ -14,7 +14,7 @@ class NonExistentLanguageError(RuntimeError):
 
 
 def find(whatever=None, language=None, iso639_1=None,
-         iso639_2=None, native=None):
+         iso639_2=None, iso639_3=None, native=None):
     """Find data row with the language.
 
     :param whatever: key to search in any of the following fields
@@ -22,15 +22,17 @@ def find(whatever=None, language=None, iso639_1=None,
     :param iso639_1: key to search in ISO 639-1 code (2 digits)
     :param iso639_2: key to search in ISO 639-2 code (3 digits,
                      bibliographic & terminological)
+    :param iso639_3: key to search in ISO 639-3 code (3 digits)
     :param native: key to search in native language name
     :return: a dict with keys (u'name', u'iso639_1', u'iso639_2_b',
-                     u'iso639_2_t', u'native')
+                     u'iso639_2_t', u'iso639_3', u'native')
 
     All arguments can be both string or unicode (Python 2).
     If there are multiple names defined, any of these can be looked for.
     """
     if whatever:
-        keys = [u'name', u'iso639_1', u'iso639_2_b', u'iso639_2_t', u'native']
+        keys = [u'name', u'iso639_1', u'iso639_2_b', u'iso639_2_t', \
+                u'iso639_3', u'native']
         val = whatever
     elif language:
         keys = [u'name']
@@ -41,6 +43,9 @@ def find(whatever=None, language=None, iso639_1=None,
     elif iso639_2:
         keys = [u'iso639_2_b', u'iso639_2_t']
         val = iso639_2
+    elif iso639_3:
+        keys = [u'iso639_3']
+        val = iso639_3
     elif native:
         keys = [u'native']
         val = native
@@ -77,6 +82,19 @@ def is_valid639_2(code):
     return find(iso639_2=code) is not None
 
 
+def is_valid639_3(code):
+    """Whether code exists as ISO 639-3 code.
+
+    >>> is_valid639_3("swe")
+    True
+    >>> is_valid639_3("sv")
+    False
+    """
+    if len(code) != 3:
+        return False
+    return find(iso639_3=code) is not None
+
+
 def to_iso639_1(key):
     """Find ISO 639-1 code for language specified by key.
 
@@ -109,6 +127,20 @@ def to_iso639_2(key, type='B'):
     if type == 'T' and item[u'iso639_2_t']:
         return item[u'iso639_2_t']
     return item[u'iso639_2_b']
+
+
+def to_iso639_3(key):
+    """Find ISO 639-3 code for language specified by key.
+
+    >>> to_iso639_3("sv")
+    u'swe'
+    >>> to_iso639_3("English")
+    u'eng'
+    """
+    item = find(whatever=key)
+    if not item:
+        raise NonExistentLanguageError('Language does not exist.')
+    return item[u'iso639_3']
 
 
 def to_name(key):
@@ -145,9 +177,10 @@ def _load_data():
         return {
             u'iso639_2_b': data[0],
             u'iso639_2_t': data[1],
-            u'iso639_1': data[2],
-            u'name': data[3],
-            u'native': data[4],
+            u'iso639_3': data[2],
+            u'iso639_1': data[3],
+            u'name': data[4],
+            u'native': data[5],
         }
 
     data_file = os.path.join(os.path.dirname(os.path.abspath(__file__)),
