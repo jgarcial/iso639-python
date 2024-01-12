@@ -9,13 +9,13 @@ Installation
 ------------
 The easiest way is using `pip`:
 
-    pip install iso639_3
+    pip install langiso639
 
 If you are using Fedora 24+, you can install iso639 using dnf:
 
-    dnf install python2-iso639_3
+    dnf install python2-langiso639
     # or
-    dnf install python3-iso639_3
+    dnf install python3-langiso639
 
 Thanks, unknown Fedora packagers :-)
 
@@ -28,12 +28,12 @@ Example usage
 -------------
 
 ```python
-import iso639_3
+import langiso639
 
->>> iso639_3.to_name('sv')
+>>> langiso639.to_name('sv')
 u'Swedish'
 
->>> iso639_3.to_native('sv')
+>>> langiso639.to_native('sv')
 u'svenska'
 ```
 
