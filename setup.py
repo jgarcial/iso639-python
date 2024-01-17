@@ -10,6 +10,7 @@ options = dict(
     license='MIT',
     description='ISO639-3 support for Python.',
     long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     package_data={'langiso639': ['languages_utf-8.txt']},
     include_package_data=True,
     author='Jaime Garcia Llopis',

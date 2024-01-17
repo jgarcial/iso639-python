@@ -13,8 +13,9 @@ class NonExistentLanguageError(RuntimeError):
     pass
 
 
-def find(whatever=None, language=None, iso639_1=None,
-         iso639_2=None, iso639_3=None, native=None):
+def find(whatever=None, language=None, iso639_1=None, iso639_2=None,
+        iso639_3=None, native=None, spanish=None, french=None,
+        russian=None, arabic=None, chinese=None, english=None):
     """Find data row with the language.
 
     :param whatever: key to search in any of the following fields
@@ -24,15 +25,22 @@ def find(whatever=None, language=None, iso639_1=None,
                      bibliographic & terminological)
     :param iso639_3: key to search in ISO 639-3 code (3 digits)
     :param native: key to search in native language name
+    :param native: key to search in Spanish language name
+    :param native: key to search in French language name
+    :param native: key to search in Russian language name
+    :param native: key to search in Arabic language name
+    :param native: key to search in Chinese language name
     :return: a dict with keys (u'name', u'iso639_1', u'iso639_2_b',
-                     u'iso639_2_t', u'iso639_3', u'native')
+                     u'iso639_2_t', u'iso639_3', u'native', u'spanish',
+                     u'french', u'russian', u'arabic', u'chinese')
 
     All arguments can be both string or unicode (Python 2).
     If there are multiple names defined, any of these can be looked for.
     """
     if whatever:
         keys = [u'name', u'iso639_1', u'iso639_2_b', u'iso639_2_t', \
-                u'iso639_3', u'native']
+                u'iso639_3', u'native', u'spanish', u'french', \
+                u'russian', u'arabic', u'chinese', u'english']
         val = whatever
     elif language:
         keys = [u'name']
@@ -49,6 +57,24 @@ def find(whatever=None, language=None, iso639_1=None,
     elif native:
         keys = [u'native']
         val = native
+    elif native:
+        keys = [u'spanish']
+        val = spanish
+    elif native:
+        keys = [u'french']
+        val = french
+    elif native:
+        keys = [u'russian']
+        val = russian
+    elif native:
+        keys = [u'arabic']
+        val = arabic
+    elif native:
+        keys = [u'chinese']
+        val = chinese
+    elif native:
+        keys = [u'english']
+        val = language
     else:
         raise ValueError('Invalid search criteria.')
     val = unicode(val).lower()
@@ -157,6 +183,87 @@ def to_name(key):
     return item[u'name']
 
 
+def to_english(key):
+    """Find the English name for the language specified by key.
+
+    >>> to_name('br')
+    u'Breton'
+    >>> to_name('sw')
+    u'Swahili'
+    """
+    return to_name(key)
+
+
+def to_spanish(key):
+    """Find the Spanish name for the language specified by key.
+
+    >>> to_spanish('eng')
+    u'Inglés'
+    >>> to_spanish('deu')
+    u'Alemán'
+    """
+    item = find(whatever=key)
+    if not item:
+        raise NonExistentLanguageError('Language does not exist.')
+    return item[u'spanish']
+
+
+def to_french(key):
+    """Find the French name for the language specified by key.
+
+    >>> to_french('eng')
+    u'Anglais'
+    >>> to_french('deu')
+    u'Allemand'
+    """
+    item = find(whatever=key)
+    if not item:
+        raise NonExistentLanguageError('Language does not exist.')
+    return item[u'french']
+
+
+def to_russian(key):
+    """Find the Russian name for the language specified by key.
+
+    >>> to_russian('eng')
+    u'Английский'
+    >>> to_russian('deu')
+    u'Немецкий'
+    """
+    item = find(whatever=key)
+    if not item:
+        raise NonExistentLanguageError('Language does not exist.')
+    return item[u'russian']
+
+
+def to_chinese(key):
+    """Find the Chinese name for the language specified by key.
+
+    >>> to_chinese('eng')
+    u'英语'
+    >>> to_chinese('deu')
+    u'德语'
+    """
+    item = find(whatever=key)
+    if not item:
+        raise NonExistentLanguageError('Language does not exist.')
+    return item[u'chinese']
+
+
+def to_arabic(key):
+    """Find the Arabic name for the language specified by key.
+
+    >>> to_chinese('eng')
+    u'إنجليزي'
+    >>> to_chinese('deu')
+    u'ألمانية'
+    """
+    item = find(whatever=key)
+    if not item:
+        raise NonExistentLanguageError('Language does not exist.')
+    return item[u'arabic']
+
+
 def to_native(key):
     """Find the native name for the language specified by key.
 
@@ -180,7 +287,13 @@ def _load_data():
             u'iso639_3': data[2],
             u'iso639_1': data[3],
             u'name': data[4],
+            u'english': data[4],
             u'native': data[5],
+            u'spanish': data[6],
+            u'french': data[7],
+            u'russian': data[8],
+            u'arabic': data[9],
+            u'chinese': data[10],
         }
 
     data_file = os.path.join(os.path.dirname(os.path.abspath(__file__)),

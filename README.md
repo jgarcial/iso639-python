@@ -35,10 +35,4 @@ u'Swedish'
 
 >>> langiso639.to_native('sv')
 u'svenska'
-```
-
-For more examples, see doctests in the source code.
-
-Acknowledgments
----------------
-@hosford42 - adding the native language support
+``
