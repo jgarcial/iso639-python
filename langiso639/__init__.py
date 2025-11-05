@@ -6,7 +6,7 @@ if 'unicode' not in dir():
     unicode = str
 
 
-__version__ = '0.1.5'
+__version__ = '0.2.2'
 
 
 class NonExistentLanguageError(RuntimeError):

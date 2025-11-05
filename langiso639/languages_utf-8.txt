@@ -30,7 +30,7 @@ aar|aar|aar|aa|Afar|Afaraf|Lejos|afar|Афар|عفار|远方
 ||abh||Tajiki Arabic||||||
 ||abi||Abidji||||||
 ||abj||Aka-Bea||||||
-abk|abk|abk|ab|Abkhazian|аҧсуа бызшәа; аҧсшәа|Abjasio|abkhaze|абхазский|أبخازيا|阿布哈兹语
+abk|abk|abk|ab|Abkhazian|аҧсуа бызшәа, аҧсшәа|Abjasio|abkhaze|абхазский|أبخازيا|阿布哈兹语
 ||abl||Lampung Nyo||||||
 ||abm||Abanyom||||||
 ||abn||Abua||||||
@@ -87,7 +87,7 @@ ada|ada|ada||Adangme||Adangme|adangme|Адангме|Adangme|阿当美
 ||adu||Aduge||||||
 ||adw||Amundava||||||
 ||adx||Amdo Tibetan||||||
-ady|ady|ady||Adyghe||Adigue; Adigues|adyghé|адыгейский; Адыгей|أديغة. أديجي|阿迪格； 阿迪盖
+ady|ady|ady||Adyghe||Adigue, Adigues|adyghé|адыгейский, Адыгей|أديغة. أديجي|阿迪格； 阿迪盖
 ||adz||Adzera||||||
 ||aea||Areba||||||
 ||aeb||Tunisian Arabic||||||
@@ -268,7 +268,7 @@ amh|amh|amh|am|Amharic|አማርኛ|Amárico|amharique|амхарский|الأ
 ||and||Ansus||||||
 ||ane||XÃ¢rÃ¢cÃ¹Ã¹||||||
 ||anf||Animere||||||
-ang|ang|ang||Old English (ca. 450-1100)||Inglés Antiguo (ca.450-1100)|anglo-saxon (ca.450-1100)|английский, старый (ок. 450-1100)|الإنجليزية القديمة (حوالي 450-1100)|英语，旧 (ca.450-1100)
+ang|ang|ang||Old English (ca. 450-1100)||Inglés Antiguo (ca.450-1100)|anglo-saxon (ca.450-1100)|английский старый (ок. 450-1100)|الإنجليزية القديمة (حوالي 450-1100)|英语，旧 (ca.450-1100)
 ||anh||Nend||||||
 ||ani||Andi||||||
 ||anj||Anor||||||
@@ -344,7 +344,7 @@ anp|anp|anp||Angika||Angika|angika|Ангика|أنجيكا|安吉卡
 ||aqz||Akuntsu||||||
 ara|ara|ara|ar|Arabic|العربية|Arábica|arabe|арабский|عربي|阿拉伯
 ||arb||Standard Arabic||||||
-arc|arc|arc||Official Aramaic (700-300 BCE)||Arameo oficial (700-300 a. C.); Arameo imperial (700-300 a. C.)|araméen d'empire (700-300 BCE)|Официальный арамейский (700-300 гг. до н.э.); Имперский арамейский (700-300 до н.э.)|الآرامية الرسمية (700-300 قبل الميلاد) ؛ الآرامية الإمبراطورية (700-300 قبل الميلاد)|官方阿拉姆语（公元前 700-300 年）； 帝国阿拉姆语（公元前 700-300 年）
+arc|arc|arc||Official Aramaic (700-300 BCE)||Arameo oficial (700-300 a. C.), Arameo imperial (700-300 a. C.)|araméen d'empire (700-300 BCE)|Официальный арамейский (700-300 гг. до н.э.), Имперский арамейский (700-300 до н.э.)|الآرامية الرسمية (700-300 قبل الميلاد) ؛ الآرامية الإمبراطورية (700-300 قبل الميلاد)|官方阿拉姆语（公元前 700-300 年）； 帝国阿拉姆语（公元前 700-300 年）
 ||ard||Arabana||||||
 ||are||Western Arrarnta||||||
 arg|arg|arg|an|Aragonese|aragonés|Aragonés|aragonais|Арагонский|أراغون|阿拉贡语
@@ -353,7 +353,7 @@ arg|arg|arg|an|Aragonese|aragonés|Aragonés|aragonais|Арагонский|أر
 ||arj||Arapaso||||||
 ||ark||ArikapÃº||||||
 ||arl||Arabela||||||
-arn|arn|arn||Mapudungun||Mapudungún; mapuche|mapudungun; mapuche; mapuce|Мапудунгун; мапуче|مابودونغون. مابوتشي|马普顿贡； 马普切语
+arn|arn|arn||Mapudungun||Mapudungún, mapuche|mapudungun, mapuche, mapuce|Мапудунгун, мапуче|مابودونغون. مابوتشي|马普顿贡； 马普切语
 ||aro||Araona||||||
 arp|arp|arp||Arapaho||Arapajó|arapaho|Арапахо|أراباهو|阿拉帕霍
 ||arq||Algerian Arabic||||||
@@ -383,7 +383,7 @@ asm|asm|asm|as|Assamese|অসমীয়া|Assamese|assamais|ассамски
 ||asq||Austrian Sign Language||||||
 ||asr||Asuri||||||
 ||ass||Ipulo||||||
-ast|ast|ast||Asturian||Asturiano; Bable; leonés; asturleonés|asturien; bable; léonais; asturoléonais|астурийский; Бэйбл; леонский; Астурлеонский|أستوريان. الكتاب المقدس. ليوني. Asturleonese|阿斯图里亚斯； 宝贝； 莱昂语； 阿斯图林人
+ast|ast|ast||Asturian||Asturiano, Bable, leonés, asturleonés|asturien, bable, léonais, asturoléonais|астурийский, Бэйбл, леонский, Астурлеонский|أستوريان. الكتاب المقدس. ليوني. Asturleonese|阿斯图里亚斯； 宝贝； 莱昂语； 阿斯图林人
 ||asu||Tocantins Asurini||||||
 ||asv||Asoa||||||
 ||asw||Australian Aborigines Sign Language||||||
@@ -436,7 +436,7 @@ ast|ast|ast||Asturian||Asturiano; Bable; leonés; asturleonés|asturien; bable; 
 ||aux||AurÃ¡||||||
 ||auy||Awiyaana||||||
 ||auz||Uzbeki Arabic||||||
-ava|ava|ava|av|Avaric|авар мацӀ; магӀарул мацӀ|Avarico|avar|Аварик|أفاريك|贪婪的
+ava|ava|ava|av|Avaric|авар мацӀ, магӀарул мацӀ|Avarico|avar|Аварик|أفاريك|贪婪的
 ||avb||Avau||||||
 ||avd||Alviri-Vidari||||||
 ave|ave|ave|ae|Avestan|avesta|Avéstico|avestique|авестийский|افستان|阿维斯坦
@@ -613,7 +613,7 @@ bas|bas|bas||Basa (Cameroon)||Base|basa|Баса|باسا|巴萨
 ||beg||Belait||||||
 ||beh||Biali||||||
 ||bei||Bekati'||||||
-bej|bej|bej||Beja||Beja; Bedawiyet|bedja|Бежа; Бедавиет|باجة. بدوية|贝雅； 贝达维耶
+bej|bej|bej||Beja||Beja, Bedawiyet|bedja|Бежа, Бедавиет|باجة. بدوية|贝雅； 贝达维耶
 ||bek||Bebeli||||||
 bel|bel|bel|be|Belarusian|беларуская мова|Bielorruso|biélorusse|белорусский|البيلاروسية|白俄罗斯语
 bem|bem|bem||Bemba (Zambia)||Bemba|bemba|Бемба|بمبا|本巴
@@ -712,7 +712,7 @@ bho|bho|bho||Bhojpuri||Bhojpuri|bhojpuri|бходжпури|بوجبوري|博�
 bik|bik|bik||Bikol||Bikol|bikol|Бикол|بيكول|比科尔
 ||bil||Bile||||||
 ||bim||Bimoba||||||
-bin|bin|bin||Bini||Bini; Edo|bini; edo|Бини; Эдо|بيني. ايدو|比尼; 江户
+bin|bin|bin||Bini||Bini, Edo|bini, edo|Бини, Эдо|بيني. ايدو|比尼, 江户
 ||bio||Nai||||||
 ||bip||Bila||||||
 ||biq||Bipi||||||
@@ -1104,7 +1104,7 @@ bul|bul|bul|bg|Bulgarian|български език|Búlgaro|bulgare|болга
 ||byk||Biao||||||
 ||byl||Bayono||||||
 ||bym||Bidjara||||||
-byn|byn|byn||Bilin||Blin; Bilín|blin; bilen|Блин; Билин|بلين. بيلين|布林; 比林
+byn|byn|byn||Bilin||Blin, Bilín|blin, bilen|Блин, Билин|بلين. بيلين|布林, 比林
 ||byo||Biyo||||||
 ||byp||Bumaji||||||
 ||byq||Basay||||||
@@ -1157,9 +1157,9 @@ cad|cad|cad||Caddo||Caddo|caddo|Каддо|كادو|卡多
 ||cao||ChÃ¡cobo||||||
 ||cap||Chipaya||||||
 ||caq||Car Nicobarese||||||
-car|car|car||Galibi Carib||Galibi caribe|karib; galibi; carib|Галиби Кариб|غاليبي كاريب|加利比加勒比语
+car|car|car||Galibi Carib||Galibi caribe|karib, galibi, carib|Галиби Кариб|غاليبي كاريب|加利比加勒比语
 ||cas||TsimanÃ©||||||
-cat|cat|cat|ca|Catalan|català|Catalán; valenciano|catalan; valencien|каталонский; валенсийский|الكاتالونية؛ بلنسية|加泰罗尼亚语； 瓦伦西亚语
+cat|cat|cat|ca|Catalan|català|Catalán, valenciano|catalan, valencien|каталонский, валенсийский|الكاتالونية؛ بلنسية|加泰罗尼亚语； 瓦伦西亚语
 ||cav||CavineÃ±a||||||
 ||caw||Callawalla||||||
 ||cax||Chiquitano||||||
@@ -1212,7 +1212,7 @@ ceb|ceb|ceb||Cebuano||Cebuano|cebuano|кебуано|السيبيونو|宿雾�
 ||ceg||Chamacoco||||||
 ||cek||Eastern Khumi Chin||||||
 ||cen||Cen||||||
-cze|ces|ces|cs|Czech|čeština; český jazyk|Checo|tchèque|Чешский|التشيكية|捷克语
+cze|ces|ces|cs|Czech|čeština, český jazyk|Checo|tchèque|Чешский|التشيكية|捷克语
 ||cet||CentÃºÃºm||||||
 ||cey||Ekai Chin||||||
 ||cfa||Dijim-Bwilim||||||
@@ -1235,13 +1235,13 @@ chg|chg|chg||Chagatai||Chagatai|djaghataï|Чагатай|تشاجاتاي|察�
 chk|chk|chk||Chuukese||Chuukés|chuuk|чуукский|تشوكيزي|楚克塞
 ||chl||Cahuilla||||||
 chm|chm|chm||Mari (Russia)||Mari|mari|Мари|ماري|马里
-chn|chn|chn||Chinook jargon||Jerga chinook|chinook, jargon|Чинукский жаргон|لغة شينوك|奇努克行话
+chn|chn|chn||Chinook jargon||Jerga chinook|chinook jargon|Чинукский жаргон|لغة شينوك|奇努克行话
 cho|cho|cho||Choctaw||Choctaw|choctaw|чокто|الشوكتو|乔克托
-chp|chp|chp||Chipewyan||Chipewyan; dené suline|chipewyan|Чипевян; Дене Сулине|شيبيويان. ديني سولين|奇普维安； Dene苏林
+chp|chp|chp||Chipewyan||Chipewyan, dené suline|chipewyan|Чипевян, Дене Сулине|شيبيويان. ديني سولين|奇普维安； Dene苏林
 ||chq||Quiotepec Chinantec||||||
 chr|chr|chr||Cherokee||Cherokee|cherokee|Чероки|شيروكي|切诺基
 ||cht||CholÃ³n||||||
-chu|chu|chu|cu|Church Slavic|ѩзыкъ словѣньскъ|Eslavo de la iglesia; eslavo antiguo; eslavo eclesiástico; búlgaro antiguo; Antiguo eslavo eclesiástico|slavon d'église; vieux slave; slavon liturgique; vieux bulgare|церковнославянский; старославянский; церковнославянский; староболгарский; старославянский|سلافية الكنيسة السلافية القديمة الكنيسة السلافية البلغارية القديمة الكنيسة السلافية القديمة|教会斯拉夫语； 老斯拉夫语； 教会斯拉夫语； 古保加利亚语； 老教堂斯拉夫语
+chu|chu|chu|cu|Church Slavic|ѩзыкъ словѣньскъ|Eslavo de la iglesia, eslavo antiguo, eslavo eclesiástico, búlgaro antiguo, Antiguo eslavo eclesiástico|slavon d'église, vieux slave, slavon liturgique, vieux bulgare|церковнославянский, старославянский, церковнославянский, староболгарский, старославянский|سلافية الكنيسة السلافية القديمة الكنيسة السلافية البلغارية القديمة الكنيسة السلافية القديمة|教会斯拉夫语； 老斯拉夫语； 教会斯拉夫语； 古保加利亚语； 老教堂斯拉夫语
 chv|chv|chv|cv|Chuvash|чӑваш чӗлхи|Chuvasio|tchouvache|чувашский|تشوفاش|楚瓦什
 ||chw||Chuwabu||||||
 ||chx||Chantyal||||||
@@ -1348,7 +1348,7 @@ cnr|cnr|cnr||Montenegrin||Montenegrino|monténégrin|Черногорский|ا
 cop|cop|cop||Coptic||Copto|copte|коптский|قبطي|科普特人
 ||coq||Coquille||||||
 cor|cor|cor|kw|Cornish|Kernewek|de Cornualles|cornique|Корнуолл|كورنيش|康沃尔语
-cos|cos|cos|co|Corsican|corsu; lingua corsa|Corso|corse|корсиканский|كورسيكا|科西嘉岛
+cos|cos|cos|co|Corsican|corsu, lingua corsa|Corso|corse|корсиканский|كورسيكا|科西嘉岛
 ||cot||Caquinte||||||
 ||cou||Wamey||||||
 ||cov||Cao Miao||||||
@@ -1374,7 +1374,7 @@ cos|cos|cos|co|Corsican|corsu; lingua corsa|Corso|corse|корсиканский
 cre|cre|cre|cr|Cree|ᓀᐦᐃᔭᐍᐏᐣ|Cree|cree|Кри|كري|克里语
 ||crf||Caramanta||||||
 ||crg||Michif||||||
-crh|crh|crh||Crimean Tatar||Tártaro de Crimea; Turco de Crimea|tatar de Crimé|крымскотатарский; крымский турецкий|تتار القرم التركية القرم|克里米亚鞑靼人； 克里米亚土耳其人
+crh|crh|crh||Crimean Tatar||Tártaro de Crimea, Turco de Crimea|tatar de Crimé|крымскотатарский, крымский турецкий|تتار القرم التركية القرم|克里米亚鞑靼人； 克里米亚土耳其人
 ||cri||SÃ£otomense||||||
 ||crj||Southern East Cree||||||
 ||crk||Plains Cree||||||
@@ -1590,7 +1590,7 @@ din|din|din||Dinka||Dinka|dinka|динка|دينكا|丁卡语
 ||dir||Dirim||||||
 ||dis||Dimasa||||||
 ||diu||Diriku||||||
-div|div|div|dv|Dhivehi|ދިވެހި|Divehi; Dhivehi; maldivo|maldivien|Дивехи; дивехи; мальдивский|ديفيهي. الديفيهي. جزر المالديف|迪维希语； 迪维希语； 马尔代夫
+div|div|div|dv|Dhivehi|ދިވެހި|Divehi, Dhivehi, maldivo|maldivien|Дивехи, дивехи, мальдивский|ديفيهي. الديفيهي. جزر المالديف|迪维希语； 迪维希语； 马尔代夫
 ||diw||Northwestern Dinka||||||
 ||dix||Dixon Reef||||||
 ||diy||Diuwe||||||
@@ -1724,7 +1724,7 @@ dua|dua|dua||Duala||Duala|douala|Дуала|دوالا|杜阿拉
 ||dui||Dumun||||||
 ||duk||Uyajitaya||||||
 ||dul||Alabat Island Agta||||||
-dum|dum|dum||Middle Dutch (ca. 1050-1350)||Holandés, Medio (ca.1050-1350)|néerlandais moyen (ca. 1050-1350)|Голландский, Средний (ок. 1050-1350)|الهولندية ، الوسطى (حوالي 1050-1350)|荷兰人，中世纪（约 1050-1350 年）
+dum|dum|dum||Middle Dutch (ca. 1050-1350)||Holandés Medio (ca.1050-1350)|néerlandais moyen (ca. 1050-1350)|Голландский Средний (ок. 1050-1350)|الهولندية ، الوسطى (حوالي 1050-1350)|荷兰人，中世纪（约 1050-1350 年）
 ||dun||Dusun Deyah||||||
 ||duo||Dupaninan Agta||||||
 ||dup||Duano||||||
@@ -1804,7 +1804,7 @@ eka|eka|eka||Ekajuk||Ekajuk|ekajuk|Экаюк|إيكاجوك|埃卡尤克
 ||elh||El Hugeirat||||||
 ||eli||Nding||||||
 ||elk||Elkei||||||
-gre|ell|ell|el|Modern Greek (1453-)|ελληνικά|Griego, Moderno (1453-)|grec moderne (après 1453)|Греческий, Современный (1453-)|اليونانية الحديثة (1453-)|希腊，现代（1453 年-）
+gre|ell|ell|el|Modern Greek (1453-)|ελληνικά|Griego Moderno (1453-)|grec moderne (après 1453)|Греческий Современный (1453-)|اليونانية الحديثة (1453-)|希腊，现代（1453 年-）
 ||elm||Eleme||||||
 ||elo||El Molo||||||
 ||elu||Elu||||||
@@ -1832,7 +1832,7 @@ elx|elx|elx||Elamite||Elamita|élamite|Эламит|العيلاميت|埃兰
 eng|eng|eng|en|English|English|Inglés|anglais|Английский|إنجليزي|英语
 ||enh||Tundra Enets||||||
 ||enl||Enlhet||||||
-enm|enm|enm||Middle English (1100-1500)||Inglés, Medio (1100-1500)|anglais moyen (1100-1500)|английский, средний (1100-1500)|الإنجليزية الوسطى (1100-1500)|英语，中等 (1100-1500)
+enm|enm|enm||Middle English (1100-1500)||Inglés Medio (1100-1500)|anglais moyen (1100-1500)|английский средний (1100-1500)|الإنجليزية الوسطى (1100-1500)|英语，中等 (1100-1500)
 ||enn||Engenni||||||
 ||eno||Enggano||||||
 ||enq||Enga||||||
@@ -1865,7 +1865,7 @@ epo|epo|epo|eo|Esperanto|Esperanto|Esperanto|espéranto|эсперанто|اس�
 ||eso||Estonian Sign Language||||||
 ||esq||Esselen||||||
 ||ess||Central Siberian Yupik||||||
-est|est|est|et|Estonian|eesti; eesti keel|Estonio|estonien|эстонский|الإستونية|爱沙尼亚语
+est|est|est|et|Estonian|eesti, eesti keel|Estonio|estonien|эстонский|الإستونية|爱沙尼亚语
 ||esu||Central Yupik||||||
 ||esy||Eskayan||||||
 ||etb||Etebi||||||
@@ -1880,7 +1880,7 @@ est|est|est|et|Estonian|eesti; eesti keel|Estonio|estonien|эстонский|ا
 ||etx||Eten||||||
 ||etz||Semimi||||||
 ||eud||Eudeve||||||
-baq|eus|eus|eu|Basque|euskara; euskera|Vasco|basque|баскский|الباسك|巴斯克
+baq|eus|eus|eu|Basque|euskara, euskera|Vasco|basque|баскский|الباسك|巴斯克
 ||eve||Even||||||
 ||evh||Uvbie||||||
 ||evn||Evenki||||||
@@ -1922,8 +1922,8 @@ fat|fat|fat||Fanti||Fanti|fanti|Фанти|فانتي|范蒂
 ||fie||Fyer||||||
 ||fif||Faifi||||||
 fij|fij|fij|fj|Fijian|vosa Vakaviti|Fiyiano|fidjien|Фиджийский|فيجي|斐济语
-fil|fil|fil||Filipino||Filipino; Filipino|filipino; pilipino|филиппинский; филиппинский|الفلبينية؛ فليبينو|菲律宾人； 菲律宾人
-fin|fin|fin|fi|Finnish|suomi; suomen kieli|Finlandés|finnois|финский|الفنلندية|芬兰
+fil|fil|fil||Filipino||Filipino, Filipino|filipino, pilipino|филиппинский, филиппинский|الفلبينية؛ فليبينو|菲律宾人； 菲律宾人
+fin|fin|fin|fi|Finnish|suomi, suomen kieli|Finlandés|finnois|финский|الفنلندية|芬兰
 ||fip||Fipa||||||
 ||fir||Firan||||||
 ||fit||Tornedalen Finnish||||||
@@ -1950,12 +1950,12 @@ fon|fon|fon||Fon||Fon|fon|фон|فون|冯
 ||fos||Siraya||||||
 ||fpe||Fernando Po Creole English||||||
 ||fqs||Fas||||||
-fre|fra|fra|fr|French|français; langue française|Francés|français|Французский|فرنسي|法语
+fre|fra|fra|fr|French|français, langue française|Francés|français|Французский|فرنسي|法语
 ||frc||Cajun French||||||
 ||frd||Fordata||||||
 ||frk||Frankish||||||
-frm|frm|frm||Middle French (ca. 1400-1600)||Francés Medio (ca.1400-1600)|français moyen (1400-1600)|Французский, Средний (ок. 1400-1600)|الفرنسية ، الوسطى (حوالي 1400-1600)|中世纪法语（约 1400-1600 年）
-fro|fro|fro||Old French (842-ca. 1400)||Francés antiguo (842-ca.1400)|français ancien (842-ca.1400)|Французский, Старый (842-ок.1400)|الفرنسية القديمة (842 - حوالي 1400)|法语，旧 (842-ca.1400)
+frm|frm|frm||Middle French (ca. 1400-1600)||Francés Medio (ca.1400-1600)|français moyen (1400-1600)|Французский Средний (ок. 1400-1600)|الفرنسية ، الوسطى (حوالي 1400-1600)|中世纪法语（约 1400-1600 年）
+fro|fro|fro||Old French (842-ca. 1400)||Francés antiguo (842-ca.1400)|français ancien (842-ca.1400)|Французский Старый (842-ок.1400)|الفرنسية القديمة (842 - حوالي 1400)|法语，旧 (842-ca.1400)
 ||frp||Arpitan||||||
 ||frq||Forak||||||
 frr|frr|frr||Northern Frisian||Frisón del norte|frison septentrional|Северный фризский|الفريزية الشمالية|北弗里斯兰语
@@ -1973,7 +1973,7 @@ fry|fry|fry|fy|Western Frisian|Frysk|Frisón occidental|frison occidental|Зап
 ||fuh||Western Niger Fulfulde||||||
 ||fui||Bagirmi Fulfulde||||||
 ||fuj||Ko||||||
-ful|ful|ful|ff|Fulah|Fulfulde; Pulaar; Pular|Fula|peul|Фула|فولا|富拉
+ful|ful|ful|ff|Fulah|Fulfulde, Pulaar, Pular|Fula|peul|Фула|فولا|富拉
 ||fum||Fum||||||
 ||fun||FulniÃ´||||||
 ||fuq||Central-Eastern Niger Fulfulde||||||
@@ -2137,7 +2137,7 @@ gil|gil|gil||Gilbertese||Gilbertés|kiribati|гилбертский|جيلبرت
 ||gko||Kok-Nar||||||
 ||gkp||Guinea Kpelle||||||
 ||gku||Ç‚Ungkue||||||
-gla|gla|gla|gd|Scottish Gaelic|Gàidhlig|Gaélico; gaélico escocés|gaélique; gaélique écossais|гэльский; шотландский гэльский|الغيلية. الغيلية الاسكتلندية|盖尔语； 苏格兰盖尔语
+gla|gla|gla|gd|Scottish Gaelic|Gàidhlig|Gaélico, gaélico escocés|gaélique, gaélique écossais|гэльский, шотландский гэльский|الغيلية. الغيلية الاسكتلندية|盖尔语； 苏格兰盖尔语
 ||glb||Belning||||||
 ||glc||Bon Gula||||||
 ||gld||Nanai||||||
@@ -2150,14 +2150,14 @@ glg|glg|glg|gl|Galician|galego|Gallego|galicien|галисийский|الجا�
 ||glo||Galambu||||||
 ||glr||Glaro-Twabo||||||
 ||glu||Gula (Chad)||||||
-glv|glv|glv|gv|Manx|Gaelg; Gailck|de la isla de Man|manx; mannois|Мэнкс|مانكس|马恩岛
+glv|glv|glv|gv|Manx|Gaelg, Gailck|de la isla de Man|manx, mannois|Мэнкс|مانكس|马恩岛
 ||glw||Glavda||||||
 ||gly||Gule||||||
 ||gma||Gambera||||||
 ||gmb||Gula'alaa||||||
 ||gmd||MÃ¡ghdÃ¬||||||
 ||gmg||MagÉ¨yi||||||
-gmh|gmh|gmh||Middle High German (ca. 1050-1500)||Alemán, Medio Alto (ca.1050-1500)|allemand, moyen haut (ca. 1050-1500)|Немецкий, средний уровень (ок. 1050-1500)|ألماني ، مرتفع متوسط (حوالي 1050-1500)|德语，中高 (ca.1050-1500)
+gmh|gmh|gmh||Middle High German (ca. 1050-1500)||Alemán Medio Alto (ca.1050-1500)|allemand moyen haut (ca. 1050-1500)|Немецкий средний уровень (ок. 1050-1500)|ألماني ، مرتفع متوسط (حوالي 1050-1500)|德语，中高 (ca.1050-1500)
 ||gml||Middle Low German||||||
 ||gmm||Gbaya-Mbodomo||||||
 ||gmn||Gimnime||||||
@@ -2194,7 +2194,7 @@ gmh|gmh|gmh||Middle High German (ca. 1050-1500)||Alemán, Medio Alto (ca.1050-15
 ||goe||Gongduk||||||
 ||gof||Gofa||||||
 ||gog||Gogo||||||
-goh|goh|goh||Old High German (ca. 750-1050)||Alemán, Antiguo Alto (ca.750-1050)|allemand, vieux haut (ca. 750-1050)|Немецкий, Старая школа (ок. 750-1050)|ألماني ، قديم مرتفع (حوالي 750-1050)|德国人，旧高中（ca.750-1050）
+goh|goh|goh||Old High German (ca. 750-1050)||Alemán Antiguo Alto (ca.750-1050)|allemand vieux haut (ca. 750-1050)|Немецкий Старая школа (ок. 750-1050)|ألماني ، قديم مرتفع (حوالي 750-1050)|德国人，旧高中（ca.750-1050）
 ||goi||Gobasi||||||
 ||goj||Gowlan||||||
 ||gok||Gowli||||||
@@ -2223,7 +2223,7 @@ got|got|got||Gothic||Gótico|gothique|готика|القوطية|哥特
 ||gqu||Qau||||||
 ||gra||Rajput Garasia||||||
 grb|grb|grb||Grebo||Grebo|grebo|Гребо|غريبو|格雷博
-grc|grc|grc||Ancient Greek (to 1453)||Griego, Antiguo (hasta 1453)|grec ancien (jusqu'à 1453)|Греческий, Древний (до 1453 г.)|اليونانية القديمة (حتى 1453)|古希腊语（至 1453 年）
+grc|grc|grc||Ancient Greek (to 1453)||Griego Antiguo (hasta 1453)|grec ancien (jusqu'à 1453)|Греческий Древний (до 1453 г.)|اليونانية القديمة (حتى 1453)|古希腊语（至 1453 年）
 ||grd||Guruntum-Mbaaru||||||
 ||grg||Madi||||||
 ||grh||Gbiri-Niragu||||||
@@ -2250,7 +2250,7 @@ grn|grn|grn|gn|Guarani|Avañe'ẽ|Guaraní|guarani|гуарани|غواراني
 ||gso||Southwest Gbaya||||||
 ||gsp||Wasembo||||||
 ||gss||Greek Sign Language||||||
-gsw|gsw|gsw||Swiss German||Suizo alemán; alemánico; alsaciano|suisse alémanique; alémanique; alsacien|швейцарский немецкий; алеманн; эльзасский|الألمانية السويسرية أليمانيك. الألزاسي|瑞士德语； 阿勒曼尼克； 阿尔萨斯
+gsw|gsw|gsw||Swiss German||Suizo alemán, alemánico, alsaciano|suisse alémanique, alémanique, alsacien|швейцарский немецкий, алеманн, эльзасский|الألمانية السويسرية أليمانيك. الألزاسي|瑞士德语； 阿勒曼尼克； 阿尔萨斯
 ||gta||GuatÃ³||||||
 ||gtu||Aghu-Tharnggala||||||
 ||gua||Shiki||||||
@@ -2343,8 +2343,8 @@ hai|hai|hai||Haida||Haida|haida|Хайда|هيدا|灰田
 ||haq||Ha||||||
 ||har||Harari||||||
 ||has||Haisla||||||
-hat|hat|hat|ht|Haitian|Kreyòl ayisyen|Haitiano; criollo haitiano|haïtien; créole haïtien|гаитянский; гаитянский креольский|الهايتية. الكريولية الهايتية|海地; 海地克里奥尔语
-hau|hau|hau|ha|Hausa|هَوُسَ; Hausa|Hausa|haoussa|хауса|الهوسا|豪萨语
+hat|hat|hat|ht|Haitian|Kreyòl ayisyen|Haitiano, criollo haitiano|haïtien, créole haïtien|гаитянский, гаитянский креольский|الهايتية. الكريولية الهايتية|海地, 海地克里奥尔语
+hau|hau|hau|ha|Hausa|هَوُسَ, Hausa|Hausa|haoussa|хауса|الهوسا|豪萨语
 ||hav||Havu||||||
 haw|haw|haw||Hawaiian||Hawaiano|hawaïen|гавайский|هاواي|夏威夷语
 ||hax||Southern Haida||||||
@@ -2384,7 +2384,7 @@ her|her|her|hz|Herero|Otjiherero|Herero|herero|гереро|هيريرو|埃雷�
 ||hij||Hijuk||||||
 ||hik||Seit-Kaitetu||||||
 hil|hil|hil||Hiligaynon||Hiligaynon|hiligaynon|Хилигайнон|هيليغاينون|希利盖农
-hin|hin|hin|hi|Hindi|हिन्दी; हिंदी|Hindi|hindi|хинди|هندي|印地语
+hin|hin|hin|hi|Hindi|हिन्दी, हिंदी|Hindi|hindi|хинди|هندي|印地语
 ||hio||Tsoa||||||
 ||hir||HimarimÃ£||||||
 hit|hit|hit||Hittite||Hitita|hittite|хеттский|حثى|赫梯人
@@ -2416,7 +2416,7 @@ hit|hit|hit||Hittite||Hitita|hittite|хеттский|حثى|赫梯人
 ||hmk||Maek||||||
 ||hml||Luopohe Hmong||||||
 ||hmm||Central Mashan Hmong||||||
-hmn|hmn|hmn||Hmong||Hmong; mongo|hmong|хмонг; Монг|همونغ. مونغ|苗族； 旺
+hmn|hmn|hmn||Hmong||Hmong, mongo|hmong|хмонг, Монг|همونغ. مونغ|苗族； 旺
 hmo|hmo|hmo|ho|Hiri Motu|Hiri Motu|Hiri motu|hiri motu|Хири Моту|هيري موتو|希里莫图
 ||hmp||Northern Mashan Hmong||||||
 ||hmq||Eastern Qiandong Miao||||||
@@ -2571,7 +2571,7 @@ ido|ido|ido|io|Ido|Ido|Sí|ido|Я делаю|أفعل|我愿意
 ||ihi||Ihievbe||||||
 ||ihp||Iha||||||
 ||ihw||Bidhawal||||||
-iii|iii|iii|ii|Sichuan Yi|ꆈꌠ꒿ Nuosuhxop|SichuanYi; Nuosu|yi de Sichuan|Сычуань И; Нуосу|سيتشوان يي Nuosu|四川彝族； 诺苏
+iii|iii|iii|ii|Sichuan Yi|ꆈꌠ꒿ Nuosuhxop|SichuanYi, Nuosu|yi de Sichuan|Сычуань И, Нуосу|سيتشوان يي Nuosu|四川彝族； 诺苏
 ||iin||Thiin||||||
 ||ijc||Izon||||||
 ||ije||Biseni||||||
@@ -2595,7 +2595,7 @@ iku|iku|iku|iu|Inuktitut|ᐃᓄᒃᑎᑐᑦ|Inuktitut|inuktitut|инуктиту
 ||ikz||Ikizu||||||
 ||ila||Ile Ape||||||
 ||ilb||Ila||||||
-ile|ile|ile|ie|Interlingue|Occidental; Interlingue|Interlengua; Occidental|interlingue|интерлингв; западный|إنترلنغ. أوكسيدنتال|中间语； 西方的
+ile|ile|ile|ie|Interlingue|Occidental, Interlingue|Interlengua, Occidental|interlingue|интерлингв, западный|إنترلنغ. أوكسيدنتال|中间语； 西方的
 ||ilg||Garig-Ilgar||||||
 ||ili||Ili Turki||||||
 ||ilk||Ilongot||||||
@@ -2632,7 +2632,7 @@ inh|inh|inh||Ingush||Ingush|ingouche|ингуш|إنغوشيا|印古什语
 ||iou||Tuma-Irumu||||||
 ||iow||Iowa-Oto||||||
 ||ipi||Ipili||||||
-ipk|ipk|ipk|ik|Inupiaq|Iñupiaq; Iñupiatun|Inupiaq|inupiaq|Инупиак|Inupiaq|因努皮亚克
+ipk|ipk|ipk|ik|Inupiaq|Iñupiaq, Iñupiatun|Inupiaq|inupiaq|Инупиак|Inupiaq|因努皮亚克
 ||ipo||Ipiko||||||
 ||iqu||Iquito||||||
 ||iqw||Ikwo||||||
@@ -2798,7 +2798,7 @@ jbo|jbo|jbo||Lojban||Lojban|lojban|ложбан|لوجبان|逻辑语
 ||jos||Jordanian Sign Language||||||
 ||jow||Jowulu||||||
 ||jpa||Jewish Palestinian Aramaic||||||
-jpn|jpn|jpn|ja|Japanese|日本語; にほんご|Japonés|japonais|Японский|اليابانية|日本人
+jpn|jpn|jpn|ja|Japanese|日本語, にほんご|Japonés|japonais|Японский|اليابانية|日本人
 jpr|jpr|jpr||Judeo-Persian||Judeo-persa|judéo-persan|иудео-персидский|اليهودية الفارسية|犹太-波斯语
 ||jqr||Jaqaru||||||
 ||jra||Jarai||||||
@@ -2833,7 +2833,7 @@ jrb|jrb|jrb||Judeo-Arabic||Judeo-árabe|judéo-arabe|иудео-арабский
 ||jyy||Jaya||||||
 kaa|kaa|kaa||Kara-Kalpak||Kara-Kalpak|karakalpak|каракалпакский|كارا كالباك|卡拉卡尔帕克
 kab|kab|kab||Kabyle||Cabila|kabyle|Кабильский|منطقة القبائل|卡比勒
-kac|kac|kac||Kachin||Kachin; Jingpho|kachin; jingpho|Качин; Цзинпхо|كاشين. جينغفو|克钦族； 景颇
+kac|kac|kac||Kachin||Kachin, Jingpho|kachin, jingpho|Качин, Цзинпхо|كاشين. جينغفو|克钦族； 景颇
 ||kad||Adara||||||
 ||kae||Ketangalan||||||
 ||kaf||Katso||||||
@@ -2842,13 +2842,13 @@ kac|kac|kac||Kachin||Kachin; Jingpho|kachin; jingpho|Качин; Цзинпхо|
 ||kai||Karekare||||||
 ||kaj||Jju||||||
 ||kak||Kalanguya||||||
-kal|kal|kal|kl|Kalaallisut|kalaallisut; kalaallit oqaasii|Kalaallisut; groenlandés|groenlandais|Калааллисут; гренландский|كالاليسوت. جرينلاند|卡拉阿里苏特； 格陵兰语
+kal|kal|kal|kl|Kalaallisut|kalaallisut, kalaallit oqaasii|Kalaallisut, groenlandés|groenlandais|Калааллисут, гренландский|كالاليسوت. جرينلاند|卡拉阿里苏特； 格陵兰语
 kam|kam|kam||Kamba (Kenya)||Kamba|kamba|Камба|كامبا|康巴
 kan|kan|kan|kn|Kannada|ಕನ್ನಡ|Canadá|kannada|каннада|الكانادا|卡纳达语
 ||kao||Xaasongaxango||||||
 ||kap||Bezhta||||||
 ||kaq||Capanahua||||||
-kas|kas|kas|ks|Kashmiri|कश्मीरी; كشميري‎|Cachemira|kashmiri|Кашмири|كشميري|克什米尔语
+kas|kas|kas|ks|Kashmiri|कश्मीरी, كشميري‎|Cachemira|kashmiri|Кашмири|كشميري|克什米尔语
 geo|kat|kat|ka|Georgian|ქართული|Georgiano|géorgien|грузинский|الجورجية|格鲁吉亚语
 kau|kau|kau|kr|Kanuri|Kanuri|Kanuri|kanouri|Канури|كانوري|卡努里
 ||kav||KatukÃ­na||||||
@@ -3013,9 +3013,9 @@ kha|kha|kha||Khasi||Khasi|khasi|Хаси|خاسي|卡西语
 ||khj||Kuturmi||||||
 ||khk||Halh Mongolian||||||
 ||khl||Lusi||||||
-khm|khm|khm|km|Khmer|ខ្មែរ; ខេមរភាសា; ភាសាខ្មែរ|Jemer central|khmer central|Центральный кхмерский|الخمير الوسطى|中央高棉
+khm|khm|khm|km|Khmer|ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ|Jemer central|khmer central|Центральный кхмерский|الخمير الوسطى|中央高棉
 ||khn||Khandesi||||||
-kho|kho|kho||Khotanese||Jotanés; Sakán|khotanais; sakan|Хотанский; Сакан|خوتانيز. سكن|于阗语； 萨坎
+kho|kho|kho||Khotanese||Jotanés, Sakán|khotanais, sakan|Хотанский, Сакан|خوتانيز. سكن|于阗语； 萨坎
 ||khp||Kapori||||||
 ||khq||Koyra Chiini Songhay||||||
 ||khr||Kharia||||||
@@ -3037,14 +3037,14 @@ kho|kho|kho||Khotanese||Jotanés; Sakán|khotanais; sakan|Хотанский; С
 ||kih||Kilmeri||||||
 ||kii||Kitsai||||||
 ||kij||Kilivila||||||
-kik|kik|kik|ki|Kikuyu|Gĩkũyũ|Kikuyú; Gikuyu|kikuyu|Кикую; Гикуйю|كيكويو. جيكويو|基库尤语； Gikuyu
+kik|kik|kik|ki|Kikuyu|Gĩkũyũ|Kikuyú, Gikuyu|kikuyu|Кикую, Гикуйю|كيكويو. جيكويو|基库尤语； Gikuyu
 ||kil||Kariya||||||
 ||kim||Karagas||||||
 kin|kin|kin|rw|Kinyarwanda|Ikinyarwanda|Kinyarwanda|rwanda|Киньярванда|كينيارواندا|基尼亚卢旺达语
 ||kio||Kiowa||||||
 ||kip||Sheshi Kham||||||
 ||kiq||Kosadle||||||
-kir|kir|kir|ky|Kirghiz|Кыргызча; Кыргыз тили|Kirguís; kirguís|kirghiz|киргиз; кыргызский|القرغيز. قيرغيزستان|柯尔克孜语； 吉尔吉斯语
+kir|kir|kir|ky|Kirghiz|Кыргызча, Кыргыз тили|Kirguís, kirguís|kirghiz|киргиз, кыргызский|القرغيز. قيرغيزستان|柯尔克孜语； 吉尔吉斯语
 ||kis||Kis||||||
 ||kit||Agob||||||
 ||kiu||Kirmanjki (individual language)||||||
@@ -3195,7 +3195,7 @@ kon|kon|kon|kg|Kongo|Kikongo|Kongo|kongo|Конго|كونغو|金刚
 ||koo||Konzo||||||
 ||kop||Waube||||||
 ||koq||Kota (Gabon)||||||
-kor|kor|kor|ko|Korean|한국어; 조선어|Coreano|coréen|Корейский|الكورية|韩国人
+kor|kor|kor|ko|Korean|한국어, 조선어|Coreano|coréen|Корейский|الكورية|韩国人
 kos|kos|kos||Kosraean||Kosraeano|kosrae|Косраан|الكوسرايين|科斯拉语
 ||kot||Lagwan||||||
 ||kou||Koke||||||
@@ -3326,7 +3326,7 @@ kru|kru|kru||Kurukh||Kurukh|kurukh|Курух|كوروخ|库鲁赫
 ||ktx||KaxararÃ­||||||
 ||kty||Kango (Bas-UÃ©lÃ© District)||||||
 ||ktz||JuÇ€Ê¼hoan||||||
-kua|kua|kua|kj|Kuanyama|Kuanyama|Kuanyama; Kwanyama|kuanyama; kwanyama|Куаньяма; Кваньяма|كوانياما. كوانياما|宽山; 观山
+kua|kua|kua|kj|Kuanyama|Kuanyama|Kuanyama, Kwanyama|kuanyama, kwanyama|Куаньяма, Кваньяма|كوانياما. كوانياما|宽山, 观山
 ||kub||Kutep||||||
 ||kuc||Kwinsu||||||
 ||kud||Auhelawa||||||
@@ -3343,7 +3343,7 @@ kum|kum|kum||Kumyk||Kumyk|koumyk|кумыкский|كوميك|库米克
 ||kuo||Kumukio||||||
 ||kup||Kunimaipa||||||
 ||kuq||Karipuna||||||
-kur|kur|kur|ku|Kurdish|Kurdî; كوردی‎|Kurdo|kurde|курдский|كردي|库尔德
+kur|kur|kur|ku|Kurdish|Kurdî, كوردی‎|Kurdo|kurde|курдский|كردي|库尔德
 ||kus||Kusaal||||||
 kut|kut|kut||Kutenai||Kutenai|kutenai|Кутенай|كوتيني|久天内
 ||kuu||Upper Kuskokwim||||||
@@ -3491,7 +3491,7 @@ lao|lao|lao|lo|Lao|ພາສາລາວ|Laosiano|lao|лаосский|لاو|�
 ||laq||Qabiao||||||
 ||lar||Larteh||||||
 ||las||Lama (Togo)||||||
-lat|lat|lat|la|Latin|latine; lingua latina|Latín|latin|латинский|لاتيني|拉丁
+lat|lat|lat|la|Latin|latine, lingua latina|Latín|latin|латинский|لاتيني|拉丁
 ||lau||Laba||||||
 lav|lav|lav|lv|Latvian|latviešu valoda|Letón|letton|Латышский|لاتفيا|拉脱维亚语
 ||law||Lauje||||||
@@ -3608,7 +3608,7 @@ lez|lez|lez||Lezghian||Lezghian|lezghien|лезгинский|ليزغيان|女
 ||lij||Ligurian||||||
 ||lik||Lika||||||
 ||lil||Lillooet||||||
-lim|lim|lim|li|Limburgan|Limburgs|Limburgués; Limburgo; limburgués|limbourgeois|Лимбурган; Лимбургер; лимбургский|ليمبورغان. ليمبرغر. ليمبورغيش|林堡; 林堡; 林堡语
+lim|lim|lim|li|Limburgan|Limburgs|Limburgués, Limburgo, limburgués|limbourgeois|Лимбурган, Лимбургер, лимбургский|ليمبورغان. ليمبرغر. ليمبورغيش|林堡, 林堡, 林堡语
 lin|lin|lin|ln|Lingala|Lingála|Lingala|lingala|лингала|اللينغالا|林加拉语
 ||lio||Liki||||||
 ||lip||Sekpele||||||
@@ -3772,7 +3772,7 @@ loz|loz|loz||Lozi||Lozi|lozi|Лози|لوزي|洛子
 ||lto||Tsotso||||||
 ||lts||Tachoni||||||
 ||ltu||Latu||||||
-ltz|ltz|ltz|lb|Luxembourgish|Lëtzebuergesch|Luxemburgués; Letzeburgesch|luxembourgeois|люксембургский; Летцебургеш|اللوكسمبرجية. Letzeburgesch|卢森堡语； Letzeburgesch
+ltz|ltz|ltz|lb|Luxembourgish|Lëtzebuergesch|Luxemburgués, Letzeburgesch|luxembourgeois|люксембургский, Летцебургеш|اللوكسمبرجية. Letzeburgesch|卢森堡语； Letzeburgesch
 lua|lua|lua||Luba-Lulua||Luba-Lulua|luba-lulua|Люба-Лулуа|لوبا لولوا|Luba-Luua
 lub|lub|lub|lu|Luba-Katanga|Tshiluba|Luba-Katanga|luba-katanga|Люба-Катанга|لوبا كاتانغا|卢巴-加丹加
 ||luc||Aringa||||||
@@ -3970,7 +3970,7 @@ men|men|men||Mende (Sierra Leone)||Mende|mendé|Менде|ميندي|门德
 ||mfx||Melo||||||
 ||mfy||Mayo||||||
 ||mfz||Mabaan||||||
-mga|mga|mga||Middle Irish (900-1200)||Irlandés medio (900-1200)|irlandais moyen (900-1200)|Ирландский, Средний (900-1200)|الأيرلندية الوسطى (900-1200)|爱尔兰语，中世纪 (900-1200)
+mga|mga|mga||Middle Irish (900-1200)||Irlandés medio (900-1200)|irlandais moyen (900-1200)|Ирландский Средний (900-1200)|الأيرلندية الوسطى (900-1200)|爱尔兰语，中世纪 (900-1200)
 ||mgb||Mararit||||||
 ||mgc||Morokodo||||||
 ||mgd||Moru||||||
@@ -4021,7 +4021,7 @@ mga|mga|mga||Middle Irish (900-1200)||Irlandés medio (900-1200)|irlandais moyen
 ||mhz||Mor (Mor Islands)||||||
 ||mia||Miami||||||
 ||mib||AtatlÃ¡huca Mixtec||||||
-mic|mic|mic||Mi'kmaq||Mi'kmaq; Micmac|mi'kmaq; micmac|Микмак; Микмак|ميكماق. ميكماك|米克马克； 麦克马克
+mic|mic|mic||Mi'kmaq||Mi'kmaq, Micmac|mi'kmaq, micmac|Микмак, Микмак|ميكماق. ميكماك|米克马克； 麦克马克
 ||mid||Mandaic||||||
 ||mie||Ocotepec Mixtec||||||
 ||mif||Mofu-Gudur||||||
@@ -4265,7 +4265,7 @@ mao|mri|mri|mi|Maori|te reo Māori|Maorí|maori|маори|الماوري|毛利
 ||mrx||Maremgi||||||
 ||mry||Mandaya||||||
 ||mrz||Marind||||||
-may|msa|msa|ms|Malay (macrolanguage)|bahasa Melayu; بهاس ملايو‎|Malayo|malais|малайский|لغة الملايو|马来语
+may|msa|msa|ms|Malay (macrolanguage)|bahasa Melayu, بهاس ملايو‎|Malayo|malais|малайский|لغة الملايو|马来语
 ||msb||Masbatenyo||||||
 ||msc||Sankaran Maninka||||||
 ||msd||Yucatec Maya Sign Language||||||
@@ -4473,7 +4473,7 @@ nap|nap|nap||Neapolitan||Napolitano|napolitain|неаполитанский|نا
 ||nas||Naasioi||||||
 ||nat||CaÌ±hungwaÌ±ryaÌ±||||||
 nau|nau|nau|na|Nauru|Dorerin Naoero|Nauru|nauruan|Науру|ناورو|瑙鲁
-nav|nav|nav|nv|Navajo|Diné bizaad|Navajo; navajo|navaho|навахо; Навахо|نافاجو. نافاهو|纳瓦霍人； 纳瓦霍语
+nav|nav|nav|nv|Navajo|Diné bizaad|Navajo, navajo|navaho|навахо, Навахо|نافاجو. نافاهو|纳瓦霍人； 纳瓦霍语
 ||naw||Nawuri||||||
 ||nax||Nakwi||||||
 ||nay||Ngarrindjeri||||||
@@ -4488,7 +4488,7 @@ nav|nav|nav|nv|Navajo|Diné bizaad|Navajo; navajo|navaho|навахо; Нава�
 ||nbi||Mao Naga||||||
 ||nbj||Ngarinyman||||||
 ||nbk||Nake||||||
-nbl|nbl|nbl|nr|South Ndebele|isiNdebele|Ndebele, Sur; Ndebele del sur|ndébélé du Sud|Ндебеле, Юг; Южный ндебеле|نديبيلي ، الجنوب ؛ جنوب نديبيلي|南恩德贝勒； 南恩德贝勒
+nbl|nbl|nbl|nr|South Ndebele|isiNdebele|Ndebele Sur, Ndebele del sur|ndébélé du Sud|Ндебеле Юг, Южный ндебеле|نديبيلي ، الجنوب ؛ جنوب نديبيلي|南恩德贝勒； 南恩德贝勒
 ||nbm||Ngbaka Ma'bo||||||
 ||nbn||Kuri||||||
 ||nbo||Nkukoli||||||
@@ -4527,7 +4527,7 @@ nbl|nbl|nbl|nr|South Ndebele|isiNdebele|Ndebele, Sur; Ndebele del sur|ndébélé
 ||ndb||Kenswei Nsei||||||
 ||ndc||Ndau||||||
 ||ndd||Nde-Nsele-Nta||||||
-nde|nde|nde|nd|North Ndebele|isiNdebele|Ndebele, Norte; Ndebele del norte|ndébélé du Nord|Ндебеле, Север; Северный ндебеле|نديبيلي ، الشمال ؛ شمال نديبيلي|北恩德贝勒； 北恩德贝勒
+nde|nde|nde|nd|North Ndebele|isiNdebele|Ndebele Norte, Ndebele del norte|ndébélé du Nord|Ндебеле Север, Северный ндебеле|نديبيلي ، الشمال ؛ شمال نديبيلي|北恩德贝勒； 北恩德贝勒
 ||ndf||Nadruvian||||||
 ||ndg||Ndengereko||||||
 ||ndh||Ndali||||||
@@ -4541,7 +4541,7 @@ ndo|ndo|ndo|ng|Ndonga|Owambo|Ndonga|ndonga|Ндонга|ندونغا|恩东加
 ||ndp||Ndo||||||
 ||ndq||Ndombe||||||
 ||ndr||Ndoola||||||
-nds|nds|nds||Low German||Bajo alemán; bajo sajón; Alemán, Bajo; sajón, bajo|bas allemand; bas saxon; allemand, bas; saxon, bas|Нижненемецкий; Нижний саксонский; немецкий, низкий; саксонский, низкий|الألمانية المنخفضة منخفض سكسونية ألماني ، منخفض ساكسون ، منخفض|低地德语； 低撒克逊语； 德语，低； 撒克逊语，低
+nds|nds|nds||Low German||Bajo alemán, bajo sajón, Alemán Bajo, sajón bajo|bas allemand, bas saxon, allemand bas, saxon bas|Нижненемецкий, Нижний саксонский, немецкий низкий, саксонский низкий|الألمانية المنخفضة منخفض سكسونية ألماني ، منخفض ساكسون ، منخفض|低地德语； 低撒克逊语； 德语，低； 撒克逊语，低
 ||ndt||Ndunga||||||
 ||ndu||Dugun||||||
 ||ndv||Ndut||||||
@@ -4570,7 +4570,7 @@ nep|nep|nep|ne|Nepali (macrolanguage)|नेपाली|Nepalí|népalais|не�
 ||net||Nete||||||
 ||neu||Neo||||||
 ||nev||Nyaheun||||||
-new|new|new||Newari||Nepal Bhasa; Newari|nepal bhasa; newari|Непал Бхаса; Невари|نيبال بهاسا ؛ نيوري|尼泊尔巴萨； 尼瓦尔
+new|new|new||Newari||Nepal Bhasa, Newari|nepal bhasa, newari|Непал Бхаса, Невари|نيبال بهاسا ؛ نيوري|尼泊尔巴萨； 尼瓦尔
 ||nex||Neme||||||
 ||ney||Neyo||||||
 ||nez||Nez Perce||||||
@@ -4693,7 +4693,7 @@ niu|niu|niu||Niuean||Niueano|niué|Ниуэ|نيوي|纽埃安语
 ||nkz||Nkari||||||
 ||nla||Ngombale||||||
 ||nlc||Nalca||||||
-dut|nld|nld|nl|Dutch|Nederlands; Vlaams|Holandés; flamenco|néerlandais; flamand|Голландский; фламандский|هولندي؛ الفلمنكية|荷兰语； 佛兰德语
+dut|nld|nld|nl|Dutch|Nederlands, Vlaams|Holandés, flamenco|néerlandais, flamand|Голландский, фламандский|هولندي؛ الفلمنكية|荷兰语； 佛兰德语
 ||nle||East Nyala||||||
 ||nlg||Gela||||||
 ||nli||Grangali||||||
@@ -4749,7 +4749,7 @@ dut|nld|nld|nl|Dutch|Nederlands; Vlaams|Holandés; flamenco|néerlandais; flaman
 ||nnl||Northern Rengma Naga||||||
 ||nnm||Namia||||||
 ||nnn||Ngete||||||
-nno|nno|nno|nn|Norwegian Nynorsk|Norsk nynorsk|Nynorsk noruego; Nynorsk, noruego|norvégien nynorsk; nynorsk, norvégien|норвежский нюнорск; нюнорск, норвежский|نينورسك النرويجية نينورسك ، النرويجية|挪威新诺斯克语； 新诺斯克语，挪威语
+nno|nno|nno|nn|Norwegian Nynorsk|Norsk nynorsk|Nynorsk noruego|norvégien nynorsk|норвежский нюнорск|نينورسك النرويجية نينورسك ، النرويجية|挪威新诺斯克语； 新诺斯克语，挪威语
 ||nnp||Wancho Naga||||||
 ||nnq||Ngindo||||||
 ||nnr||Narungga||||||
@@ -4760,18 +4760,18 @@ nno|nno|nno|nn|Norwegian Nynorsk|Norsk nynorsk|Nynorsk noruego; Nynorsk, noruego
 ||nny||Nyangga||||||
 ||nnz||Nda'nda'||||||
 ||noa||Woun Meu||||||
-nob|nob|nob|nb|Norwegian BokmÃ¥l|Norsk bokmål|Bokmål, noruego; bokmal noruego|norvégien bokmål|букмол, норвежский; Норвежский букмол|بوكمال ، النرويجية ؛ النرويجية بوكمال|Bokmål，挪威语； 挪威语
+nob|nob|nob|nb|Norwegian Bokmål|Norsk bokmål|noruego Bokmål|norvégien bokmål|букмол норвежский, Норвежский букмол|بوكمال ، النرويجية ؛ النرويجية بوكمال|Bokmål，挪威语； 挪威语
 ||noc||Nuk||||||
 ||nod||Northern Thai||||||
 ||noe||Nimadi||||||
 ||nof||Nomane||||||
-nog|nog|nog||Nogai||Nogai|nogaï; nogay|ногайцы|نوجاي|野外
+nog|nog|nog||Nogai||Nogai|nogaï, nogay|ногайцы|نوجاي|野外
 ||noh||Nomu||||||
 ||noi||Noiri||||||
 ||noj||Nonuya||||||
 ||nok||Nooksack||||||
 ||nol||Nomlaki||||||
-non|non|non||Old Norse||Nórdico, Antiguo|norrois, vieux|скандинавский, старый|نورس قديم|北欧，旧
+non|non|non||Old Norse||Nórdico Antiguo|norrois vieux|скандинавский старый|نورس قديم|北欧，旧
 ||nop||Numanggang||||||
 ||noq||Ngongo||||||
 nor|nor|nor|no|Norwegian|Norsk|Noruego|norvégien|Норвежский|النرويجية|挪威
@@ -4833,7 +4833,7 @@ nqo|nqo|nqo||N'Ko||N'Ko|n'ko|Н'Ко|N'Ko|恩科
 ||nsl||Norwegian Sign Language||||||
 ||nsm||Sumi Naga||||||
 ||nsn||Nehan||||||
-nso|nso|nso||Pedi||Pediátrico; Sepedi; Sesotho del norte|pedi; sepedi; sotho du Nord|Педи; Сепеди; Северный сото|بيدي. السبيدي. شمال سوتو|佩迪； 塞佩迪； 北索托
+nso|nso|nso||Pedi||Pediátrico, Sepedi, Sesotho del norte|pedi, sepedi, sotho du Nord|Педи, Сепеди, Северный сото|بيدي. السبيدي. شمال سوتو|佩迪； 塞佩迪； 北索托
 ||nsp||Nepalese Sign Language||||||
 ||nsq||Northern Sierra Miwok||||||
 ||nsr||Maritime Sign Language||||||
@@ -4890,7 +4890,7 @@ nso|nso|nso||Pedi||Pediátrico; Sepedi; Sesotho del norte|pedi; sepedi; sotho du
 ||nvo||Nyokon||||||
 ||nwa||Nawathinehena||||||
 ||nwb||Nyabwa||||||
-nwc|nwc|nwc||Classical Newari||Newari clásico; Newari viejo; Bhasa clásica de Nepal|newari classique|Классический невари; Старый Невари; Классическая непальская бхаса|النوارى الكلاسيكية نيواري القديمة نيبال الكلاسيكية بهاسا|古典尼瓦尔语； 老尼瓦尔； 古典尼泊尔 Bhasa
+nwc|nwc|nwc||Classical Newari||Newari clásico, Newari viejo, Bhasa clásica de Nepal|newari classique|Классический невари, Старый Невари, Классическая непальская бхаса|النوارى الكلاسيكية نيواري القديمة نيبال الكلاسيكية بهاسا|古典尼瓦尔语； 老尼瓦尔； 古典尼泊尔 Bhasa
 ||nwe||Ngwe||||||
 ||nwg||Ngayawung||||||
 ||nwi||Southwest Tanna||||||
@@ -4913,7 +4913,7 @@ nwc|nwc|nwc||Classical Newari||Newari clásico; Newari viejo; Bhasa clásica de 
 ||nxq||Naxi||||||
 ||nxr||Ninggerum||||||
 ||nxx||Nafri||||||
-nya|nya|nya|ny|Nyanja|chiCheŵa; chinyanja|Chichewa; masticar; nyanja|chichewa; chewa; nyanja|Чичева; Чева; Ньянджа|شيشيوا. شيوا. نيانجا|奇切瓦语； 切瓦； 尼亚加
+nya|nya|nya|ny|Nyanja|chiCheŵa, chinyanja|Chichewa, masticar, nyanja|chichewa, chewa, nyanja|Чичева, Чева, Ньянджа|شيشيوا. شيوا. نيانجا|奇切瓦语； 切瓦； 尼亚加
 ||nyb||Nyangbo||||||
 ||nyc||Nyanga-li||||||
 ||nyd||Nyore||||||
@@ -4963,7 +4963,7 @@ nzi|nzi|nzi||Nzima||Nzima|nzema|Нзима|نزيما|恩齐马
 ||obu||Obulom||||||
 ||oca||Ocaina||||||
 ||och||Old Chinese||||||
-oci|oci|oci|oc|Occitan (post 1500)|occitan; lenga d'òc|Occitano (posterior a 1500)|occitan (après 1500)|Окситанский (после 1500 г.)|الأوكيتان (بعد 1500)|奥克西唐（1500 年后）
+oci|oci|oci|oc|Occitan (post 1500)|occitan, lenga d'òc|Occitano (posterior a 1500)|occitan (après 1500)|Окситанский (после 1500 г.)|الأوكيتان (بعد 1500)|奥克西唐（1500 年后）
 ||ocm||Old Cham||||||
 ||oco||Old Cornish||||||
 ||ocu||Atzingo Matlatzinca||||||
@@ -5089,11 +5089,11 @@ osa|osa|osa||Osage||Osage|osage|осейджи|أوساج|奥沙
 ||osn||Old Sundanese||||||
 ||oso||Ososo||||||
 ||osp||Old Spanish||||||
-oss|oss|oss|os|Ossetian|ирон æвзаг|Osetio; osético|ossète|Осетинский; осетинский|أوسيتيا. الأوسيتيك|奥塞梯; 骨质的
+oss|oss|oss|os|Ossetian|ирон æвзаг|Osetio, osético|ossète|Осетинский, осетинский|أوسيتيا. الأوسيتيك|奥塞梯, 骨质的
 ||ost||Osatu||||||
 ||osu||Southern One||||||
 ||osx||Old Saxon||||||
-ota|ota|ota||Ottoman Turkish (1500-1928)||Turco, Otomano (1500-1928)|turc ottoman (1500-1928)|Турецкий, Османский (1500-1928)|التركية والعثمانية (1500-1928)|土耳其、奥斯曼 (1500-1928)
+ota|ota|ota||Ottoman Turkish (1500-1928)||Turco Otomano (1500-1928)|turc ottoman (1500-1928)|Турецкий Османский (1500-1928)|التركية والعثمانية (1500-1928)|土耳其、奥斯曼 (1500-1928)
 ||otb||Old Tibetan||||||
 ||otd||Ot Danum||||||
 ||ote||Mezquital Otomi||||||
@@ -5134,8 +5134,8 @@ pag|pag|pag||Pangasinan||Pangasinán|pangasinan|Пангасинан|بانجا�
 ||pai||Pe||||||
 ||pak||ParakanÃ£||||||
 pal|pal|pal||Pahlavi||Pahlavi|pahlavi|Пехлеви|بهلوي|巴列维
-pam|pam|pam||Pampanga||Pampanga; Kapampangan|pampangan|Пампанга; Капампанган|بامبانجا. كابامبانغان|邦板牙； 卡潘潘甘
-pan|pan|pan|pa|Panjabi|ਪੰਜਾਬੀ; پنجابی‎|Panyabí; punjabi|pendjabi|панджаби; панджаби|البنجابية. البنجابية|旁遮普语； 旁遮普语
+pam|pam|pam||Pampanga||Pampanga, Kapampangan|pampangan|Пампанга, Капампанган|بامبانجا. كابامبانغان|邦板牙； 卡潘潘甘
+pan|pan|pan|pa|Panjabi|ਪੰਜਾਬੀ, پنجابی‎|Panyabí, punjabi|pendjabi|панджаби, панджаби|البنجابية. البنجابية|旁遮普语； 旁遮普语
 ||pao||Northern Paiute||||||
 pap|pap|pap||Papiamento||Papiamento|papiamento|папиаменто|بابيامينتو|帕皮亚门托语
 ||paq||Parya||||||
@@ -5200,7 +5200,7 @@ pau|pau|pau||Palauan||Palauano|palau|Палау|بالاوان|帕劳群岛
 ||pek||Penchal||||||
 ||pel||Pekal||||||
 ||pem||Phende||||||
-peo|peo|peo||Old Persian (ca. 600-400 B.C.)||Persa antiguo (ca.600-400 a.C.)|perse, vieux (ca. 600-400 av. J.-C.)|Персидский, Древний (ок. 600–400 до н. э.)|فارسي ، قديم (حوالي 600-400 قبل الميلاد)|古波斯语（约公元前 600-400 年）
+peo|peo|peo||Old Persian (ca. 600-400 B.C.)||Persa antiguo (ca.600-400 a.C.)|perse vieux (ca. 600-400 av. J.-C.)|Персидский Древний (ок. 600–400 до н. э.)|فارسي ، قديم (حوالي 600-400 قبل الميلاد)|古波斯语（约公元前 600-400 年）
 ||pep||Kunja||||||
 ||peq||Southern Pomo||||||
 ||pes||Iranian Persian||||||
@@ -5346,7 +5346,7 @@ pli|pli|pli|pi|Pali|पाऴि|Pali|pali|пали|بالي|巴利语
 ||poh||Poqomchi'||||||
 ||poi||Highland Popoluca||||||
 ||pok||PokangÃ¡||||||
-pol|pol|pol|pl|Polish|język polski; polszczyzna|Polaco|polonais|польский|تلميع|抛光
+pol|pol|pol|pl|Polish|język polski, polszczyzna|Polaco|polonais|польский|تلميع|抛光
 ||pom||Southeastern Pomo||||||
 pon|pon|pon||Pohnpeian||Pohnpeiano|pohnpei|понпейский|بوهنبيان|波纳佩安
 ||poo||Central Pomo||||||
@@ -5384,7 +5384,7 @@ por|por|por|pt|Portuguese|português|Portugués|portugais|португальск
 ||prl||Peruvian Sign Language||||||
 ||prm||Kibiri||||||
 ||prn||Prasuni||||||
-pro|pro|pro||Old ProvenÃ§al (to 1500)||Provenzal, antiguo (hasta 1500); Occitano antiguo (hasta 1500)|provençal ancien (jusqu'à 1500); occitan ancien (jusqu'à 1500)|провансальский, старый (до 1500 г.); Окситанский, Старый (до 1500 г.)|بروفنسال ، قديم (حتى 1500) ؛ الأوكيتان القديم (حتى 1500)|普罗旺斯，旧（至 1500）； 古奥克西唐语（至 1500 年）
+pro|pro|pro||Old ProvenÃ§al (to 1500)||Provenzal antiguo (hasta 1500), Occitano antiguo (hasta 1500)|provençal ancien (jusqu'à 1500), occitan ancien (jusqu'à 1500)|провансальский старый (до 1500 г.), Окситанский Старый (до 1500 г.)|بروفنسال ، قديم (حتى 1500) ؛ الأوكيتان القديم (حتى 1500)|普罗旺斯，旧（至 1500）； 古奥克西唐语（至 1500 年）
 ||prq||AshÃ©ninka PerenÃ©||||||
 ||prr||Puri||||||
 ||prs||Dari||||||
@@ -5439,7 +5439,7 @@ pro|pro|pro||Old ProvenÃ§al (to 1500)||Provenzal, antiguo (hasta 1500); Occita
 ||pup||Pulabu||||||
 ||puq||Puquina||||||
 ||pur||PuruborÃ¡||||||
-pus|pus|pus|ps|Pushto|پښتو|Pushto; pastún|pachto|пушту; пушту|يدفع الى؛ الباشتو|推图； 普什图语
+pus|pus|pus|ps|Pushto|پښتو|Pushto, pastún|pachto|пушту, пушту|يدفع الى؛ الباشتو|推图； 普什图语
 ||put||Putoh||||||
 ||puu||Punu||||||
 ||puw||Puluwatese||||||
@@ -5469,7 +5469,7 @@ pus|pus|pus|ps|Pushto|پښتو|Pushto; pastún|pachto|пушту; пушту|ي�
 ||qub||Huallaga HuÃ¡nuco Quechua||||||
 ||quc||K'iche'||||||
 ||qud||CalderÃ³n Highland Quichua||||||
-que|que|que|qu|Quechua|Runa Simi; Kichwa|Quechua|quechua|кечуа|الكيتشوا|盖丘亚语
+que|que|que|qu|Quechua|Runa Simi, Kichwa|Quechua|quechua|кечуа|الكيتشوا|盖丘亚语
 ||quf||Lambayeque Quechua||||||
 ||qug||Chimborazo Highland Quichua||||||
 ||quh||South Bolivian Quechua||||||
@@ -5539,7 +5539,7 @@ raj|raj|raj||Rajasthani||Rajastán|rajasthani|Раджастхани|راجاس�
 ||rao||Rao||||||
 rap|rap|rap||Rapanui||Rapa Nui|rapanui|Рапануи|رابا نوي|拉帕努伊
 ||raq||Saam||||||
-rar|rar|rar||Rarotongan||Rarotongano; Maorí de las Islas Cook|rarotonga; maori des îles Cook|Раротонган; Маори Островов Кука|راروتونجان. جزر كوك الماوري|拉罗汤加； 库克群岛毛利人
+rar|rar|rar||Rarotongan||Rarotongano, Maorí de las Islas Cook|rarotonga, maori des îles Cook|Раротонган, Маори Островов Кука|راروتونجان. جزر كوك الماوري|拉罗汤加； 库克群岛毛利人
 ||ras||Tegali||||||
 ||rat||Razajerdi||||||
 ||rau||Raute||||||
@@ -5636,7 +5636,7 @@ rar|rar|rar||Rarotongan||Rarotongano; Maorí de las Islas Cook|rarotonga; maori 
 roh|roh|roh|rm|Romansh|rumantsch grischun|Romanche|romanche|ретороманский|رومانش|罗曼语
 ||rol||Romblomanon||||||
 rom|rom|rom||Romany||Gitano|tsigane|цыгане|روماني|罗姆语
-rum|ron|ron|ro|Romanian|limba română|Rumano; Moldavo; moldavo|roumain; moldave|Румынский; молдавский; Молдавский|روماني؛ المولدافية. مولدوفا|罗马尼亚语； 摩尔多瓦语； 摩尔多瓦
+rum|ron|ron|ro|Romanian|limba română|Rumano, Moldavo, moldavo|roumain, moldave|Румынский, молдавский, Молдавский|روماني؛ المولدافية. مولدوفا|罗马尼亚语； 摩尔多瓦语； 摩尔多瓦
 ||roo||Rotokas||||||
 ||rop||Kriol||||||
 ||ror||Rongga||||||
@@ -5669,7 +5669,7 @@ rum|ron|ron|ro|Romanian|limba română|Rumano; Moldavo; moldavo|roumain; moldave
 ||ruk||Che||||||
 run|run|run|rn|Rundi|Ikirundi|Rundi|rundi|Рунди|روندي|润迪
 ||ruo||Istro Romanian||||||
-rup|rup|rup||Macedo-Romanian||Arrumano; arumano; Macedor-rumano|aroumain; macédo-roumain|Арумынский; арумынский; македо-румынский|أرومانيان. أرومانيان. المقدونية الرومانية|阿罗马尼亚人； 阿鲁曼语； 马其顿-罗马尼亚语
+rup|rup|rup||Macedo-Romanian||Arrumano, arumano, Macedor-rumano|aroumain, macédo-roumain|Арумынский, арумынский, македо-румынский|أرومانيان. أرومانيان. المقدونية الرومانية|阿罗马尼亚人； 阿鲁曼语； 马其顿-罗马尼亚语
 ||ruq||Megleno Romanian||||||
 rus|rus|rus|ru|Russian|Русский|Ruso|russe|Русский|الروسية|俄语
 ||rut||Rutul||||||
@@ -5804,7 +5804,7 @@ sel|sel|sel||Selkup||Selkup|selkoupe|селькуп|سيلكوب|塞尔库普
 ||sfm||Small Flowery Miao||||||
 ||sfs||South African Sign Language||||||
 ||sfw||Sehwi||||||
-sga|sga|sga||Old Irish (to 900)||Irlandés, Antiguo (hasta 900)|irlandais ancien (jusqu'à 900)|Ирландский, Старый (до 900 г.)|الأيرلندية القديمة (حتى 900)|爱尔兰语，旧（至 900）
+sga|sga|sga||Old Irish (to 900)||Irlandés Antiguo (hasta 900)|irlandais ancien (jusqu'à 900)|Ирландский Старый (до 900 г.)|الأيرلندية القديمة (حتى 900)|爱尔兰语，旧（至 900）
 ||sgb||Mag-antsi Ayta||||||
 ||sgc||Kipsigis||||||
 ||sgd||Surigaonon||||||
@@ -5861,7 +5861,7 @@ sid|sid|sid||Sidamo||Sidamo|sidamo|Сидамо|سيدامو|西达摩
 ||sik||Sikiana||||||
 ||sil||Tumulung Sisaala||||||
 ||sim||Mende (Papua New Guinea)||||||
-sin|sin|sin|si|Sinhala|සිංහල|Cingalés; cingalés|singhalais|сингальский; сингальский|السنهالية. السنهالية|僧伽罗语； 僧伽罗语
+sin|sin|sin|si|Sinhala|සිංහල|Cingalés, cingalés|singhalais|сингальский, сингальский|السنهالية. السنهالية|僧伽罗语； 僧伽罗语
 ||sip||Sikkimese||||||
 ||siq||Sonia||||||
 ||sir||Siri||||||
@@ -5920,7 +5920,7 @@ sin|sin|sin|si|Sinhala|සිංහල|Cingalés; cingalés|singhalais|синг�
 ||slh||Southern Puget Sound Salish||||||
 ||sli||Lower Silesian||||||
 ||slj||SalumÃ¡||||||
-slo|slk|slk|sk|Slovak|slovenčina; slovenský jazyk|Eslovaco|slovaque|словацкий|السلوفاكية|斯洛伐克语
+slo|slk|slk|sk|Slovak|slovenčina, slovenský jazyk|Eslovaco|slovaque|словацкий|السلوفاكية|斯洛伐克语
 ||sll||Salt-Yui||||||
 ||slm||Pangutaran Sama||||||
 ||sln||Salinan||||||
@@ -5929,7 +5929,7 @@ slo|slk|slk|sk|Slovak|slovenčina; slovenský jazyk|Eslovaco|slovaque|слова
 ||sls||Singapore Sign Language||||||
 ||slt||Sila||||||
 ||slu||Selaru||||||
-slv|slv|slv|sl|Slovenian|slovenski jezik; slovenščina|Esloveno|slovène|словенский|السلوفينية|斯洛文尼亚语
+slv|slv|slv|sl|Slovenian|slovenski jezik, slovenščina|Esloveno|slovène|словенский|السلوفينية|斯洛文尼亚语
 ||slw||Sialum||||||
 ||slx||Salampasu||||||
 ||sly||Selayar||||||
@@ -5960,7 +5960,7 @@ sms|sms|sms||Skolt Sami||Sami skolt|sami skolt|скольт-саамы|سكول�
 ||smz||Simeku||||||
 sna|sna|sna|sn|Shona|chiShona|Shona|shona|Шона|شونا|绍纳语
 ||snc||Sinaugoro||||||
-snd|snd|snd|sd|Sindhi|सिन्धी; سنڌي، سندھی‎|Sindhi|sindhi|синдхи|السندية|信德语
+snd|snd|snd|sd|Sindhi|सिन्धी, سنڌي، سندھی‎|Sindhi|sindhi|синдхи|السندية|信德语
 ||sne||Bau Bidayuh||||||
 ||snf||Noon||||||
 ||sng||Sanga (Democratic Republic of Congo)||||||
@@ -5992,20 +5992,20 @@ sog|sog|sog||Sogdian||Sogdiano|sogdien|согдийский|صغديان|粟特�
 ||soj||Soi||||||
 ||sok||Sokoro||||||
 ||sol||Solos||||||
-som|som|som|so|Somali|Soomaaliga; af Soomaali|Somalí|somali|сомалийский|صومالي|索马里
+som|som|som|so|Somali|Soomaaliga, af Soomaali|Somalí|somali|сомалийский|صومالي|索马里
 ||soo||Songo||||||
 ||sop||Songe||||||
 ||soq||Kanasi||||||
 ||sor||Somrai||||||
 ||sos||Seeku||||||
-sot|sot|sot|st|Southern Sotho|Sesotho|Sotho, Sur|sotho du Sud|Сото, Южный|سوتو الجنوبية|索托，南方
+sot|sot|sot|st|Southern Sotho|Sesotho|Sotho Sur|sotho du Sud|Сото Южный|سوتو الجنوبية|索托，南方
 ||sou||Southern Thai||||||
 ||sov||Sonsorol||||||
 ||sow||Sowanda||||||
 ||sox||Swo||||||
 ||soy||Miyobe||||||
 ||soz||Temi||||||
-spa|spa|spa|es|Spanish|español|Español; castellano|espagnol; castillan|Испанский язык; кастильский|الأسبانية؛ قشتالية|西班牙语; 卡斯蒂利亚语
+spa|spa|spa|es|Spanish|español|Español, castellano|espagnol, castillan|Испанский язык, кастильский|الأسبانية؛ قشتالية|西班牙语, 卡斯蒂利亚语
 ||spb||Sepa (Indonesia)||||||
 ||spc||SapÃ©||||||
 ||spd||Saep||||||
@@ -6220,7 +6220,7 @@ tam|tam|tam|ta|Tamil|தமிழ்|Tamil|tamoul|тамильский|التا�
 ||taq||Tamasheq||||||
 ||tar||Central Tarahumara||||||
 ||tas||Tay Boi||||||
-tat|tat|tat|tt|Tatar|татар теле; tatar tele|Tártaro|tatar|татарский|التتار|鞑靼语
+tat|tat|tat|tt|Tatar|татар теле, tatar tele|Tártaro|tatar|татарский|التتار|鞑靼语
 ||tau||Upper Tanana||||||
 ||tav||Tatuyo||||||
 ||taw||Tai||||||
@@ -6335,7 +6335,7 @@ tet|tet|tet||Tetum||Tetum|tetum|Тетум|التيتوم|德顿
 ||tgh||Tobagonian Creole English||||||
 ||tgi||Lawunuia||||||
 ||tgj||Tagin||||||
-tgk|tgk|tgk|tg|Tajik|тоҷикӣ; toçikī; تاجیکی‎|Tayiko|tadjik|таджикский|طاجيك|塔吉克
+tgk|tgk|tgk|tg|Tajik|тоҷикӣ, toçikī, تاجیکی‎|Tayiko|tadjik|таджикский|طاجيك|塔吉克
 tgl|tgl|tgl|tl|Tagalog|Wikang Tagalog|Tagalo|tagalog|тагальский|تاغالوغ|他加禄语
 ||tgn||Tandaganon||||||
 ||tgo||Sudest||||||
@@ -6429,7 +6429,7 @@ tkl|tkl|tkl||Tokelau||Tokelau|tokelau|Токелау|توكيلاو|托克劳
 ||tld||Talaud||||||
 ||tlf||Telefol||||||
 ||tlg||Tofanma||||||
-tlh|tlh|tlh||Klingon||Klingon; tlhIngan-Hol|klingon|клингон; tlhИнган-Хол|كلينجون. tlh إنجان هول|克林贡语； 英安荷
+tlh|tlh|tlh||Klingon||Klingon, tlhIngan-Hol|klingon|клингон, tlhИнган-Хол|كلينجون. tlh إنجان هول|克林贡语； 英安荷
 tli|tli|tli||Tlingit||Tlingit|tlingit|тлинкиты|تلينجيت|特林吉特语
 ||tlj||Talinga-Bwisi||||||
 ||tlk||Taloki||||||
@@ -6632,7 +6632,7 @@ tso|tso|tso|ts|Tsonga|Xitsonga|Tsonga|tsonga|Цонга|تسونجا|特松加
 ||tuh||Taulil||||||
 ||tui||Tupuri||||||
 ||tuj||Tugutil||||||
-tuk|tuk|tuk|tk|Turkmen|Türkmen; Түркмен|Turkmeno|turkmène|туркменский|التركمان|土库曼人
+tuk|tuk|tuk|tk|Turkmen|Türkmen, Түркмен|Turkmeno|turkmène|туркменский|التركمان|土库曼人
 ||tul||Tula||||||
 tum|tum|tum||Tumbuka||Tumbuka|tumbuka|Тумбука|تومبوكا|通布卡
 ||tun||Tunica||||||
@@ -6751,7 +6751,7 @@ uga|uga|uga||Ugaritic||Ugarítico|ougaritique|угаритский|الأوغا�
 ||ugy||Uruguayan Sign Language||||||
 ||uha||Uhami||||||
 ||uhn||Damal||||||
-uig|uig|uig|ug|Uighur|ئۇيغۇرچە‎; Uyghurche|Uigur; uigur|ouïgour|уйгурский; уйгурский|الأويغور. الأويغور|维吾尔; 维吾尔族
+uig|uig|uig|ug|Uighur|ئۇيغۇرچە‎, Uyghurche|Uigur, uigur|ouïgour|уйгурский, уйгурский|الأويغور. الأويغور|维吾尔, 维吾尔族
 ||uis||Uisai||||||
 ||uiv||Iyive||||||
 ||uji||Tanjijili||||||
@@ -6854,7 +6854,7 @@ urd|urd|urd|ur|Urdu|اردو|Urdu|ourdou|урду|الأردية|乌尔都语
 ||uvl||Lote||||||
 ||uwa||Kuku-Uwanh||||||
 ||uya||Doko-Uyanga||||||
-uzb|uzb|uzb|uz|Uzbek|Oʻzbek; Ўзбек; أۇزبېك‎|Uzbeco|ouszbek|узбекский|أوزبكي|乌兹别克语
+uzb|uzb|uzb|uz|Uzbek|Oʻzbek, Ўзбек, أۇزبېك‎|Uzbeco|ouszbek|узбекский|أوزبكي|乌兹别克语
 ||uzn||Northern Uzbek||||||
 ||uzs||Southern Uzbek||||||
 ||vaa||Vaagri Booli||||||
@@ -6962,7 +6962,7 @@ vot|vot|vot||Votic||Vótico|vote|Водик|صوت|投票
 ||wah||Watubela||||||
 ||wai||Wares||||||
 ||waj||Waffa||||||
-wal|wal|wal||Wolaytta||Wolaitta; Wolaytta|wolaitta; wolaytta|Волайтта; Волайтта|Wolaitta. ولايتا|沃莱塔； 沃莱塔
+wal|wal|wal||Wolaytta||Wolaitta, Wolaytta|wolaitta, wolaytta|Волайтта, Волайтта|Wolaitta. ولايتا|沃莱塔； 沃莱塔
 ||wam||Wampanoag||||||
 ||wan||Wan||||||
 ||wao||Wappo||||||
@@ -7188,7 +7188,7 @@ wol|wol|wol|wo|Wolof|Wollof|Wolof|wolof|волоф|الولوف|沃洛夫语
 ||xai||KaimbÃ©||||||
 ||xaj||ArarandewÃ¡ra||||||
 ||xak||MÃ¡ku||||||
-xal|xal|xal||Kalmyk||Kalmuko; Oirat|kalmouk; oïrat|калмыцкий; ойрат|كالميك. أويرات|卡尔梅克语； 卫拉特
+xal|xal|xal||Kalmyk||Kalmuko, Oirat|kalmouk, oïrat|калмыцкий, ойрат|كالميك. أويرات|卡尔梅克语； 卫拉特
 ||xam||Ç€Xam||||||
 ||xan||Xamtanga||||||
 ||xao||Khao||||||
@@ -7761,7 +7761,7 @@ zap|zap|zap||Zapotec||Zapoteco|zapotèque|Сапотек|زابوتيك|萨巴�
 ||zba||Balaibalan||||||
 ||zbc||Central Berawan||||||
 ||zbe||East Berawan||||||
-zbl|zbl|zbl||Blissymbols||Símbolos de bienaventuranza; bienaventuranza simbólica; Dicha|symboles Bliss; Bliss|Блиссимволы; Блиссимволика; Блаженство|النعيم. النعيم. النعيم|幸福符号； 极乐符号； 极乐
+zbl|zbl|zbl||Blissymbols||Símbolos de bienaventuranza, bienaventuranza simbólica, Dicha|symboles Bliss, Bliss|Блиссимволы, Блиссимволика, Блаженство|النعيم. النعيم. النعيم|幸福符号； 极乐符号； 极乐
 ||zbt||Batui||||||
 ||zbu||Bu (Bauchi State)||||||
 ||zbw||West Berawan||||||
@@ -7780,12 +7780,12 @@ zgh|zgh|zgh||Standard Moroccan Tamazight||Tamazight marroquí estándar|amazighe
 ||zgm||Minz Zhuang||||||
 ||zgn||Guibian Zhuang||||||
 ||zgr||Magori||||||
-zha|zha|zha|za|Zhuang|Saɯ cueŋƅ; Saw cuengh|Zhuang; chuang|zhuang; chuang|Чжуан; Чуанг|تشوانغ. تشوانغ|庄； 庄
+zha|zha|zha|za|Zhuang|Saɯ cueŋƅ, Saw cuengh|Zhuang, chuang|zhuang, chuang|Чжуан, Чуанг|تشوانغ. تشوانغ|庄； 庄
 ||zhb||Zhaba||||||
 ||zhd||Dai Zhuang||||||
 ||zhi||Zhire||||||
 ||zhn||Nong Zhuang||||||
-chi|zho|zho|zh|Chinese|中文; Zhōngwén; 汉语; 漢語|Chino|chinois|Китайский|صينى|中国人
+chi|zho|zho|zh|Chinese|中文, Zhōngwén, 汉语, 漢語|Chino|chinois|Китайский|صينى|中国人
 ||zhw||Zhoa||||||
 ||zia||Zia||||||
 ||zib||Zimbabwe Sign Language||||||
@@ -7909,11 +7909,11 @@ zul|zul|zul|zu|Zulu|isiZulu|Zulú|zoulou|Зулу|الزولو|祖鲁语
 zun|zun|zun||Zuni||Zuni|zuni|Зуни|زوني|进念
 ||zuy||Zumaya||||||
 ||zwa||Zay||||||
-zxx|zxx|zxx||No linguistic content||Sin contenido lingüístico; No aplica|pas de contenu linguistique; non applicable|Нет лингвистического содержания; Непригодный|لا يوجد محتوى لغوي. غير قابل للتطبيق|无语言内容； 不适用
+zxx|zxx|zxx||No linguistic content||Sin contenido lingüístico, No aplica|pas de contenu linguistique, non applicable|Нет лингвистического содержания, Непригодный|لا يوجد محتوى لغوي. غير قابل للتطبيق|无语言内容； 不适用
 ||zyb||Yongbei Zhuang||||||
 ||zyg||Yang Zhuang||||||
 ||zyj||Youjiang Zhuang||||||
 ||zyn||Yongnan Zhuang||||||
 ||zyp||Zyphe Chin||||||
-zza|zza|zza||Zaza||Zaza; Dimili; dimli; Kirdki; Kirmanjki; Zazaki|zaza; dimili; dimli; kirdki; kirmanjki; zazaki|Заза; Димили; Димли; Кирдки; Кирманки; Зазаки|ظاظا. ديميلي. ديملي. كردكي. كرمانجكي. زازاكي|扎扎； 迪米利； 丁力; 柯尔基； 基尔曼基； 座崎
+zza|zza|zza||Zaza||Zaza, Dimili, dimli, Kirdki, Kirmanjki, Zazaki|zaza, dimili, dimli, kirdki, kirmanjki, zazaki|Заза, Димили, Димли, Кирдки, Кирманки, Зазаки|ظاظا. ديميلي. ديملي. كردكي. كرمانجكي. زازاكي|扎扎； 迪米利； 丁力, 柯尔基； 基尔曼基； 座崎
 ||zzj||Zuojiang Zhuang||||||
