@@ -38,8 +38,8 @@ def find(whatever=None, language=None, iso639_1=None, iso639_2=None,
     If there are multiple names defined, any of these can be looked for.
     """
     if whatever:
-        keys = [u'name', u'iso639_1', u'iso639_2_b', u'iso639_2_t', \
-                u'iso639_3', u'native', u'spanish', u'french', \
+        keys = [u'iso639_1', u'iso639_2_b', u'iso639_2_t', \
+                u'iso639_3', u'name', u'native', u'spanish', u'french', \
                 u'russian', u'arabic', u'chinese', u'english']
         val = whatever
     elif language:
@@ -79,7 +79,7 @@ def find(whatever=None, language=None, iso639_1=None, iso639_2=None,
         raise ValueError('Invalid search criteria.')
     val = unicode(val).lower()
     return next((item for item in data if any(
-        val in item[key].lower().split("; ") for key in keys)), None)
+        val in item[key].lower().split(", ") for key in keys)), None)
 
 
 def is_valid639_1(code):
