@@ -6,80 +6,83 @@ if 'unicode' not in dir():
     unicode = str
 
 
-__version__ = '0.2.2'
+__version__ = '0.2.5'
 
 
 class NonExistentLanguageError(RuntimeError):
     pass
 
 
-def find(whatever=None, language=None, iso639_1=None, iso639_2=None,
-        iso639_3=None, native=None, spanish=None, french=None,
-        russian=None, arabic=None, chinese=None, english=None):
-    """Find data row with the language.
-
-    :param whatever: key to search in any of the following fields
-    :param language: key to search in English language name
-    :param iso639_1: key to search in ISO 639-1 code (2 digits)
-    :param iso639_2: key to search in ISO 639-2 code (3 digits,
-                     bibliographic & terminological)
-    :param iso639_3: key to search in ISO 639-3 code (3 digits)
-    :param native: key to search in native language name
-    :param native: key to search in Spanish language name
-    :param native: key to search in French language name
-    :param native: key to search in Russian language name
-    :param native: key to search in Arabic language name
-    :param native: key to search in Chinese language name
-    :return: a dict with keys (u'name', u'iso639_1', u'iso639_2_b',
-                     u'iso639_2_t', u'iso639_3', u'native', u'spanish',
-                     u'french', u'russian', u'arabic', u'chinese')
-
-    All arguments can be both string or unicode (Python 2).
-    If there are multiple names defined, any of these can be looked for.
+def find(
+    whatever=None, language=None, iso639_1=None, iso639_2=None,
+    iso639_3=None, native=None, spanish=None, french=None,
+    russian=None, arabic=None, chinese=None, english=None
+):
     """
+    Find a language entry matching a given criterion.
+    Priority when no specific key is provided:
+        1. ISO codes (639-1, 639-2, 639-3)
+        2. Names (english, native, spanish, french, russian, arabic, chinese)
+    """
+
+    # 1. If 'whatever' is provided → search in *all* fields
     if whatever:
-        keys = [u'iso639_1', u'iso639_2_b', u'iso639_2_t', \
-                u'iso639_3', u'name', u'native', u'spanish', u'french', \
-                u'russian', u'arabic', u'chinese', u'english']
+        keys = [
+            'iso639_1', 'iso639_2_b', 'iso639_2_t', 'iso639_3',
+            'name', 'native', 'spanish', 'french', 'russian',
+            'arabic', 'chinese', 'english'
+        ]
         val = whatever
-    elif language:
-        keys = [u'name']
-        val = language
+
+    # 2. Specific fields (explicit parameters)
     elif iso639_1:
-        keys = [u'iso639_1']
+        keys = ['iso639_1']
         val = iso639_1
     elif iso639_2:
-        keys = [u'iso639_2_b', u'iso639_2_t']
+        keys = ['iso639_2_b', 'iso639_2_t']
         val = iso639_2
     elif iso639_3:
-        keys = [u'iso639_3']
+        keys = ['iso639_3']
         val = iso639_3
-    elif native:
-        keys = [u'native']
-        val = native
-    elif native:
-        keys = [u'spanish']
-        val = spanish
-    elif native:
-        keys = [u'french']
-        val = french
-    elif native:
-        keys = [u'russian']
-        val = russian
-    elif native:
-        keys = [u'arabic']
-        val = arabic
-    elif native:
-        keys = [u'chinese']
-        val = chinese
-    elif native:
-        keys = [u'english']
+    elif language:
+        keys = ['name']
         val = language
+    elif native:
+        keys = ['native']
+        val = native
+    elif spanish:
+        keys = ['spanish']
+        val = spanish
+    elif french:
+        keys = ['french']
+        val = french
+    elif russian:
+        keys = ['russian']
+        val = russian
+    elif arabic:
+        keys = ['arabic']
+        val = arabic
+    elif chinese:
+        keys = ['chinese']
+        val = chinese
+    elif english:
+        keys = ['english']
+        val = english
+
+    # 3. NOTHING provided → find best match
+    #    Priority: codes first, then names
     else:
-        raise ValueError('Invalid search criteria.')
-    val = unicode(val).lower()
-    return next((item for item in data if any(
-        val in item[key].lower().split(", ") for key in keys)), None)
+        raise ValueError("Invalid search criteria (no search term provided).")
+
+    val = str(val).lower()
+
+    for key in keys:
+        for item in data:
+            field = item.get(key)
+            if val in [p.strip().lower() for p in field.split(',')]:
+                return item
+
+    return None
 
 
 def is_valid639_1(code):
